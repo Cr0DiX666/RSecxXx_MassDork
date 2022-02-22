@@ -26,7 +26,8 @@ apt update && apt upgrade && apt install wget && apt install python2 && wget htt
 
 ```
 Python2 OR Python2.7
-``
+```
+
 
 ## LICENSE TOOLS SOFTWARE 
 ```
