@@ -1,0 +1,3438 @@
+"id=" & intext:"Warning: Unknown()
+"id=" & intext:"Warning: array_merge()
+"id=" & intext:"Warning: filesize()
+"id=" & intext:"Warning: getimagesize()
+"id=" & intext:"Warning: ilesize()
+"id=" & intext:"Warning: is_writable()
+"id=" & intext:"Warning: mysql_fetch_array()
+"id=" & intext:"Warning: mysql_fetch_assoc()
+"id=" & intext:"Warning: mysql_num_rows()
+"id=" & intext:"Warning: mysql_query()
+"id=" & intext:"Warning: mysql_result()
+"id=" & intext:"Warning: pg_exec()
+"id=" & intext:"Warning: preg_match()
+"id=" & intext:"Warning: require()
+"id=" & intext:"Warning: session_start()
+*.php?include=
+*/newbb/print.php?forum=*topic_id=*"
+*/newbb_plus/*="
+*/news/archive.php?op=*year=*month=*"
+*/tsep/include/colorswitch.php?tsep_config[absPath]=*"
+*coppercop/theme.php?THEME_DIR=
+*default.php?body=
+*default.php?body=
+*default.php?page=
+*default.php?page=
+*inc*.php?addr=
+*inc*.php?adresa=
+*inc*.php?body=
+*inc*.php?ev=
+*inc*.php?i=
+*inc*.php?incl=
+*inc*.php?include=
+*inc*.php?j=
+*inc*.php?k=
+*inc*.php?link=
+*inc*.php?m=
+*inc*.php?modo=
+*inc*.php?open=
+*inc*.php?pg=
+*inc*.php?showpage=
+*inc*.php?sivu=
+*inc*.php?start=
+*inc*.php?str=
+*inc/header.php/step_one.php?server_inc=
+*inc/pipe.php?HCL_path=
+*include/new-visitor.inc.php?lvc_include_dir=
+*include/write.php?dir=
+*includes/header.php?systempath=
+*index.php?arquivo=
+*index.php?arquivo=
+*index.php?url=
+*index.php?url=
+*inst/index.php?lng=../../include/main.inc&G_PATH=
+*mwchat/libs/start_lobby.php?CONFIG[MWCHAT_Libs]=
+*pivot/modules/module_db.php?pivot_path=
+*support/mailling/maillist/inc/initdb.php?absolute_path=
+*zentrack/index.php?configFile=
+.gov.br/index.php?arquivo=
+.php?Page_ID="
+.php?S="
+.php?_REQUEST=&_REQUEST[option]=com_content&_REQUEST[Itemid]=1&GLOBALS=&mosConfig_absolute_path="
+.php?a="
+.php?abrir="
+.php?act="
+.php?action="
+.php?ad="
+.php?archive="
+.php?area="
+.php?article="
+.php?b="
+.php?back="
+.php?base="
+.php?basedir="
+.php?bbs="
+.php?board_no="
+.php?body="
+.php?c="
+.php?cal_dir="
+.php?cat="
+.php?category="
+.php?choice="
+.php?class="
+.php?club_id="
+.php?cod.tipo="
+.php?cod="
+.php?conf="
+.php?configFile="
+.php?cont="
+.php?corpo="
+.php?cvsroot="
+.php?d="
+.php?da="
+.php?date="
+.php?debug="
+.php?debut="
+.php?default="
+.php?destino="
+.php?dir="
+.php?display="
+.php?east="
+.php?f="
+.php?f_content="
+.php?file="
+.php?file_id="
+.php?filepath="
+.php?flash="
+.php?folder="
+.php?for="
+.php?form="
+.php?formatword="
+.php?from="
+.php?funcao="
+.php?function="
+.php?g="
+.php?get="
+.php?go="
+.php?gorumDir="
+.php?goto="
+.php?h="
+.php?headline="
+.php?i="
+.php?inc="
+.php?include="
+.php?includedir="
+.php?inter="
+.php?item_id="
+.php?itemid="
+.php?j="
+.php?join="
+.php?jojo="
+.php?l="
+.php?la="
+.php?lan="
+.php?lang="
+.php?lest="
+.php?link="
+.php?load="
+.php?loc="
+.php?m="
+.php?main="
+.php?meio.php="
+.php?meio="
+.php?menu="
+.php?menuID="
+.php?mep="
+.php?mid="
+.php?month="
+.php?mostra="
+.php?my="
+.php?n="
+.php?name="
+.php?nav="
+.php?new="
+.php?news="
+.php?next="
+.php?nextpage="
+.php?o="
+.php?op="
+.php?open="
+.php?option="
+.php?origem="
+.php?p="
+.php?pageurl="
+.php?para="
+.php?part="
+.php?perm="
+.php?pg="
+.php?pid="
+.php?place="
+.php?play="
+.php?plugin="
+.php?pm_path="
+.php?pollname="
+.php?post="
+.php?pr="
+.php?prefix="
+.php?prefixo="
+.php?q="
+.php?redirect="
+.php?ref="
+.php?refid="
+.php?regionId="
+.php?release="
+.php?release_id="
+.php?return="
+.php?root="
+.php?searchcode_id="
+.php?sec="
+.php?secao="
+.php?sect="
+.php?sel="
+.php?server="
+.php?servico="
+.php?sg="
+.php?shard="
+.php?show="
+.php?sid="
+.php?site="
+.php?sourcedir="
+.php?start="
+.php?storyid="
+.php?str="
+.php?subd="
+.php?subdir="
+.php?subject="
+.php?sufixo="
+.php?systempath="
+.php?t="
+.php?task="
+.php?teste="
+.php?theme_dir="
+.php?thread_id="
+.php?tid="
+.php?title="
+.php?to="
+.php?topic_id="
+.php?type="
+.php?u="
+.php?url="
+.php?urlFrom="
+.php?v="
+.php?var="
+.php?vi="
+.php?view="
+.php?visual="
+.php?wPage="
+.php?y="
+.php?z="
+.php?zo="
+/Admin_files/order.log
+/HyperStat/stat_what.log
+/Orders/order.log
+/WebCart/orders.txt
+/WebShop/logs
+/WebShop/logs/cc.txt
+/WebShop/logs/cc.txt
+/WebShop/logs/ck.log
+/WebShop/templates/cc.txt
+/WebShop/templates/cc.txt
+/_private/orders.txt
+/_private/shopping_cart.mdb
+/addpost_newpoll.php?addpoll=preview&thispath= "/ubbthreads/"
+/addpost_newpoll.php?addpoll=preview&thispath= "ubbthreads"
+/addpost_newpoll.php?addpoll=preview&thispath= /ubbthreads/
+/addpost_newpoll.php?addpoll=preview&thispath= /ubbthreads/"
+/addpost_newpoll.php?addpoll=preview&thispath= ubbthreads
+/admin/index.php?o= admin/index.php"
+/admin/index.php?o= admin/index.php";
+/administrator/components/com_serverstat/inst.serverstat.php?mosConfig_absolute_path= "com_serverstat"
+/administrator/components/com_serverstat/inst.serverstat.php?mosConfig_absolute_path= com_serverstat
+/bin/DCShop/auth_data/auth_user_file.txt
+/bin/DCShop/orders/orders.txt
+/bin/cart.pl
+/bin/cart.pl
+/bin/cart32.exe
+/bin/orders/orders.txt
+/bin/pagelog.cgi
+/bin/shop.pl/page=;cat%20shop.pl
+/bin/shop/auth_data/auth_user_file.txt
+/bin/shop/orders/orders.txt
+/calendar.php?l= calendar.php?l=
+/calendar.php?l= calendar.php?l="
+/calendar.php?p= calendar.php?p=
+/calendar.php?p= calendar.php?p="
+/calendar.php?pg= calendar.php?pg=
+/calendar.php?pg= calendar.php?pg="
+/calendar.php?s= calendar.php?s=
+/calendar.php?s= calendar.php?s="
+/ccbill/secure/ccbill.log
+/cgi-bin/DCShop/auth_data/auth_user_file.txt
+/cgi-bin/DCShop/orders/orders.txt
+/cgi-bin/cart.pl
+/cgi-bin/cart.pl
+/cgi-bin/cart32.exe
+/cgi-bin/orderlog.txt
+/cgi-bin/orders/cc.txt
+/cgi-bin/orders/mc.txt
+/cgi-bin/orders/orders.txt
+/cgi-bin/pagelog.cgi
+/cgi-bin/pdg_cart/order.log
+/cgi-bin/shop.pl/page=;cat%20shop.pl
+/cgi-bin/shop/auth_data/auth_user_file.txt
+/cgi-bin/shop/orders/orders.txt
+/cgi-bin/shopper.cgi&TEMPLATE=ORDER.LOG
+/cgi-bin/shopper.exe?search
+/cgi-bin/www-sql;;;
+/cgi-local/DCShop/auth_data/auth_user_file.txt
+/cgi-local/DCShop/orders/orders.txt
+/cgi-local/cart.pl
+/cgi-local/cart.pl
+/cgi-local/cart32.exe
+/cgi-local/orders/orders.txt
+/cgi-local/pagelog.cgi
+/cgi-local/shop.pl/page=;cat%20shop.pl
+/cgi-local/shop/auth_data/auth_user_file.txt
+/cgi-local/shop/orders/orders.txt
+/cgi-sys/DCShop/auth_data/auth_user_file.txt
+/cgi-sys/DCShop/orders/orders.txt
+/cgi-sys/cart.pl
+/cgi-sys/cart.pl
+/cgi-sys/cart32.exe
+/cgi-sys/orders/orders.txt
+/cgi-sys/pagelog.cgi
+/cgi-sys/shop.pl/page=;cat%20shop.pl
+/cgi-sys/shop/auth_data/auth_user_file.txt
+/cgi-sys/shop/orders/orders.txt
+/cgi-win/DCShop/auth_data/auth_user_file.txt
+/cgi-win/DCShop/orders/orders.txt
+/cgi-win/cart.pl
+/cgi-win/cart.pl
+/cgi-win/cart32.exe
+/cgi-win/orders/orders.txt
+/cgi-win/pagelog.cgi
+/cgi-win/shop.pl/page=;cat%20shop.pl
+/cgi-win/shop/auth_data/auth_user_file.txt
+/cgi-win/shop/orders/orders.txt
+/cgi/DCShop/auth_data/auth_user_file.txt
+/cgi/DCShop/orders/orders.txt
+/cgi/cart.pl
+/cgi/cart.pl
+/cgi/cart32.exe
+/cgi/orders/orders.txt
+/cgi/pagelog.cgi
+/cgi/shop.pl/page=;cat%20shop.pl
+/cgi/shop/auth_data/auth_user_file.txt
+/cgi/shop/orders/orders.txt
+/cgibin/DCShop/auth_data/auth_user_file.txt
+/cgibin/DCShop/orders/orders.txt
+/cgibin/cart.pl
+/cgibin/cart.pl
+/cgibin/cart32.exe
+/cgibin/orders/orders.txt
+/cgibin/pagelog.cgi
+/cgibin/shop.pl/page=;cat%20shop.pl
+/cgibin/shop/auth_data/auth_user_file.txt
+/cgibin/shop/orders/orders.txt
+/cgis/DCShop/auth_data/auth_user_file.txt
+/cgis/DCShop/orders/orders.txt
+/cgis/cart.pl
+/cgis/cart.pl
+/cgis/cart32.exe
+/cgis/orders/orders.txt
+/cgis/pagelog.cgi
+/cgis/shop.pl/page=;cat%20shop.pl
+/cgis/shop/auth_data/auth_user_file.txt
+/cgis/shop/orders/orders.txt
+/classes/adodbt/sql.php?classes_dir= "adobt"
+/classes/adodbt/sql.php?classes_dir= "index2.php?option=rss"
+/classes/adodbt/sql.php?classes_dir= /classes/adodbt/sql.php?classes_dir="
+/classes/adodbt/sql.php?classes_dir= adobt
+/classified_right.php?language_dir= "classified.php"
+/classified_right.php?language_dir= "phpbazar"
+/classified_right.php?language_dir= classified.php
+/classified_right.php?language_dir= classified.php phpbazar
+/classified_right.php?language_dir= phpbazar
+/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= "phpCOIN 1.2.3"
+/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= "phpCOIN"
+/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= "powered by phpCOIN 1.2.3"
+/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= phpCOIN
+/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= phpCOIN 1.2.3
+/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= powered by phpCOIN 1.2.3
+/components/com_cpg/cpg.php?mosConfig_absolute_path= com_cpg"
+/components/com_extcalendar/admin_events.php?CONFIG_EXT[LANGUAGES_DIR]= com_extcalendar
+/components/com_extcalendar/admin_events.php?CONFIG_EXT[LANGUAGES_DIR]= com_extcalendar
+/components/com_extended_registration/registration_detailed.inc.php?mosConfig_absolute_path= "com_extended_registration"
+/components/com_extended_registration/registration_detailed.inc.php?mosConfig_absolute_path= com_extended_registration
+/components/com_extended_registration/registration_detailed.inc.php?mosConfig_absolute_path= com_extended_registration
+/components/com_facileforms/facileforms.frame.php?ff_compath= "com_facileforms"
+/components/com_facileforms/facileforms.frame.php?ff_compath= com_facileforms
+/components/com_facileforms/facileforms.frame.php?ff_compath= com_facileforms"
+/components/com_forum/download.php?phpbb_root_path= com_forum
+/components/com_simpleboard/image_upload.php?sbp= com_simpleboard"
+/components/com_zoom/includes/database.php?mosConfig_absolute_path= "com_zoom"
+/components/com_zoom/includes/database.php?mosConfig_absolute_path= "index.php?option="com_zoom"
+/components/com_zoom/includes/database.php?mosConfig_absolute_path= com_zoom
+/contenido/classes/class.inuse.php
+/cool-logs/mlog.html
+/cool-logs/mylog.html
+/cvv2.txt
+/dc/auth_data/auth_user_file.txt
+/dc/orders/orders.txt
+/dcshop/auth_data/auth_user_file.txt
+/dcshop/orders/orders.txt
+/easylog/easylog.html
+/embed/day.php?path= "Calendar"
+/embed/day.php?path= "Login to Calendar"
+/embed/day.php?path= "WebCalendar"
+/embed/day.php?path= Calendar
+/embed/day.php?path= Login to Calendar
+/embed/day.php?path= WebCalendar
+/embed/day.php?path= intitle:"Login to Calendar"
+/header.php?abspath= "MobilePublisherPHP"
+/header.php?abspath= MobilePublisherPHP
+/htbin/DCShop/auth_data/auth_user_file.txt
+/htbin/DCShop/orders/orders.txt
+/htbin/cart.pl
+/htbin/cart.pl
+/htbin/cart32.exe
+/htbin/orders/orders.txt
+/htbin/shop.pl/page=;cat%20shop.pl
+/htbin/shop/auth_data/auth_user_file.txt
+/htbin/shop/orders/orders.txt
+/inc/irayofuncs.php?irayodirhack= "/inc/"
+/include/init.inc.php?CPG_M_DIR="
+/includes/dbal.php?eqdkp_root_path= "EQdkp"
+/includes/dbal.php?eqdkp_root_path= "powered by EQdkp"
+/includes/dbal.php?eqdkp_root_path= EQdkp
+/includes/dbal.php?eqdkp_root_path= powered by EQdkp
+/includes/kb_constants.php?module_root_path= "Base"
+/includes/kb_constants.php?module_root_path= "Knowledge Base"
+/includes/kb_constants.php?module_root_path= "Knowledge"
+/includes/kb_constants.php?module_root_path= "Powered by Knowledge Base"
+/includes/kb_constants.php?module_root_path= Base
+/includes/kb_constants.php?module_root_path= Knowledge
+/includes/kb_constants.php?module_root_path= Knowledge Base
+/includes/kb_constants.php?module_root_path= Powered by Knowledge Base
+/includes/mx_functions_ch.php?phpbb_root_path="
+/login.php?dir= "login.php?dir="
+/login.php?dir= login.php?dir=
+/login.php?dir= login.php?dir=
+/main.php?sayfa= "main.php?sayfa="
+/main.php?sayfa= main.php?sayfa=
+/mall_log_files/
+/mcf.php?content= mcf.php"
+/modules/MyGuests/signin.php?_AMGconfig[cfg_serverpath]="
+/modules/TotalCalendar/about.php?inc_dir= "TotalCalendar"
+/modules/TotalCalendar/about.php?inc_dir= /TotalCalendar
+/modules/TotalCalendar/about.php?inc_dir= TotalCalendar
+/modules/coppermine/themes/coppercop/theme.php?THEME_DIR= coppermine
+/modules/coppermine/themes/coppercop/theme.php?THEME_DIR= coppermine
+/modules/kernel/system/startup.php?CFG_PHPGIGGLE_ROOT= CFG_PHPGIGGLE_ROOT
+/modules/vwar/admin/admin.php?vwar_root= "vwar"
+/modules/vwar/admin/admin.php?vwar_root= vwar
+/modules/vwar/admin/admin.php?vwar_root= vwar
+/order/order.log
+/orderb/shop.mdb
+/orders/checks.txt
+/orders/checks.txt
+/orders/import.txt
+/orders/mountain.cfg
+/orders/order.log
+/orders/orders.txt
+/scripts/DCShop/auth_data/auth_user_file.txt
+/scripts/DCShop/orders/orders.txt
+/scripts/cart.pl
+/scripts/cart.pl
+/scripts/cart32.exe
+/scripts/iisadmin/tools/mkilog.exe
+/scripts/orders/orders.txt
+/scripts/pagelog.cgi
+/scripts/shop.pl/page=;cat%20shop.pl
+/scripts/shop/auth_data/auth_user_file.txt
+/scripts/shop/orders/orders.txt
+/scripts/weblog
+/server%20logfile;;;
+/super_stats/access_logs
+/tools/send_reminders.php?includedir= day.php?date=
+/trafficlog
+/webcart-lite/orders/import.txt
+/webcart/carts
+/webcart/config
+/webcart/config/clients.txt
+/webcart/orders
+/webcart/orders/import.txt
+/wwwlog
+Dork 2 :
+Dork 3 :
+GradeMap/index.php?page=
+Index.php?id=
+Index.php?id=
+List.php?CatID=
+My_eGery/public/displayCategory.php?basepath=
+My_eGery/public/displayCategory.php?basepath=
+OrderForm.php?Cart=
+Packages.php?sourcedir=
+Pageid=
+Productinfo.php?id=
+Productinfo.php?id= intext:"Credit Card"
+SQuery/lib/gore.php?libpath= "/SQuery/"
+Stray-Questions-View.php?num=
+Stray-Questions-View.php?num=
+[MyAlbum_DIR]/language.inc.php?langs_dir= [MyAlbum_DIR]
+[Script Path]/admin/index.php?o= admin/index.php"
+[Script Path]/admin/index.php?o= admin/index.php";
+_functions.php?prefix
+_functions.php?prefix=
+aboutbook.php?id=
+aboutbook.php?id=
+account.php?action= .php?action=
+account.php?action= account.php?action=
+account.php?action= iurl:".php?action="
+account.php?action= iurl:"account.php?action="
+accounts.php?command= .php?command="
+addedit.php?root_dir=
+addevent.inc.php?agendax_path=
+addmedia.php?factsfile[$LANGUAGE]= phpGedView
+admin.php?cal_dir=
+admin.php?cal_dir=
+admin.php?cal_dir=
+admin/doeditconfig.php?thispath=../includes&config[path]= "admin"
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= "Mambo"
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= "com_remository
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= "com_remository"
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= /com_remository/
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= Mambo
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= com_remository
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= index.php?option=com_remository
+affich.php?base=
+agendax/addevent.inc.php?agendax_path=
+agendax/addevent.inc.php?agendax_path=
+ages.php?id=
+ages.php?id= intext:"Email+Password"
+album_portal.php?phpbb_root_path=
+album_portal.php?phpbb_root_path=
+album_portal.php?phpbb_root_path=
+announce.php?id=
+announce.php?id=
+announcements.php?phpraid_dir= "phpraid signup"
+announcements.php?phpraid_dir= "phpraid"
+announcements.php?phpraid_dir= php raid
+announcements.php?phpraid_dir= phpraid
+announcements.php?phpraid_dir= phpraid signup
+app/webeditor/login.cgi?username=&command=simple&do=edit&password=&file=
+arg.php?arg= .php?arg=
+args.php?arg= .php?arg=
+arquivo.php?data=
+art.php?idm=
+article.php?ID=
+article.php?ID=
+article.php?ID= intext:"Credit Card"
+article.php?ID= intext:"Username"
+article.php?id=
+article.php?id=
+article.php?sid=
+articles.cgi?a=34&t=
+artikelinfo.php?id=
+artikelinfo.php?id=
+atom.php5?page= .php5?id=
+auktion.pl?menue=
+auto.php?inc= .php?inc="
+auto.php?page= auto.php?page=
+avd_start.php?avd=
+avd_start.php?avd=
+band_info.php?id=
+band_info.php?id=
+base.php?*[*]*=
+base.php?adresa=
+base.php?basepath=
+base.php?choix=
+base.php?eval=
+base.php?f1= .php?f1="
+base.php?f1= base.php?f1="
+base.php?home=
+base.php?id=
+base.php?incl=
+base.php?include=
+base.php?l=
+base.php?name=
+base.php?opcion=
+base.php?pa=
+base.php?pag=
+base.php?panel=
+base.php?path=
+base.php?phpbb_root_path=
+base.php?play=
+base.php?pname=
+base.php?rub=
+base.php?second=
+base.php?seite=
+base.php?sivu=
+base.php?str=
+base.php?texto=
+base.php?to=
+base.php?v=
+base.php?w=
+bb_usage_stats/include/bb_usage_stats.php?phpbb_root_path= forum
+becommunity/community/index.php?pageurl=
+becommunity/community/index.php?pageurl=
+biznews.cgi?a=33&t=
+blank.php?abre=
+blank.php?action=
+blank.php?base_dir=
+blank.php?body=
+blank.php?destino=
+blank.php?dir=
+blank.php?filepath=
+blank.php?goto=
+blank.php?in=
+blank.php?itemnav=
+blank.php?left=
+blank.php?loader=
+blank.php?menu=
+blank.php?open=
+blank.php?pa=
+blank.php?page=
+blank.php?pagina=
+blank.php?path=
+blank.php?pre=
+blank.php?pref=
+blank.php?qry=
+blank.php?ref=
+blank.php?rub=
+blank.php?strona=
+blank.php?subject=
+blank.php?t=
+blank.php?url=
+blank.php?where=
+blank.php?xlink=
+blank.php?z=
+board.php?see= .php?see="
+board.php?see= board.php?see="
+book.php5?page= php5?page=
+buy.php?category=
+buy.php?category=
+buy.php?category= intext:"Username"
+calendar.pl?command=login&fromTemplate=
+canal.php?meio= .php?meio="
+category.php?id=
+category.php?id=
+ccbill/whereami.cgi?g=ls
+ccbill/whereami.cgi?g=ls
+cgi-bin/1/cmd.cgi
+cgi-bin/1/cmd.cgi
+cgi-bin/acart/acart.pl?&page=
+cgi-bin/acart/acart.pl?&page=
+cgi-bin/awstats.pl?update=1&logfile=
+cgi-bin/awstats.pl?update=1&logfile=
+cgi-bin/awstats/awstats.pl?configdir
+cgi-bin/awstats/awstats.pl?configdir
+cgi-bin/bbs/read.cgi?file=
+cgi-bin/bp/bp-lib.pl?g=
+cgi-bin/bp/bp-lib.pl?g=
+cgi-bin/hinsts.pl?
+cgi-bin/hinsts.pl?
+cgi-bin/ikonboard.cgi
+cgi-bin/ikonboard.cgi
+cgi-bin/index.cgi?page=
+cgi-bin/index.cgi?page=
+cgi-bin/jammail.pl?job=showoldmail&mail=
+cgi-bin/probe.cgi?olddat=
+cgi-bin/quikstore.cgi?category=
+cgi-bin/quikstore.cgi?category=
+cgi-bin/telnet.cgi
+cgi-bin/telnet.cgi
+cgi-bin/ubb/ubb.cgi?g=
+cgi-bin/ubb/ubb.cgi?g=
+cgi-sys/guestbook.cgi?user=cpanel&template=
+channel_id=
+channel_id=
+chappies.php?id=
+chappies.php?id=
+chappies.php?id= intext:"Username"
+checkout.asp?UserID=
+checkout.asp?UserID=
+checkout.asp?cartid=
+checkout.asp?cartid=
+checkout.cfm?UserID=
+checkout.cfm?UserID=
+checkout.cfm?cartid=
+checkout.cfm?cartid=
+checkout.php?UserID=
+checkout.php?UserID=
+checkout.php?cartid=
+checkout.php?cartid=
+checkout1.asp?cartid=
+checkout1.asp?cartid=
+checkout1.cfm?cartid=
+checkout1.cfm?cartid=
+checkout1.php?cartid=
+checkout1.php?cartid=
+checkout_confirmed.asp?order_id=
+checkout_confirmed.asp?order_id=
+checkout_confirmed.cfm?order_id=
+checkout_confirmed.cfm?order_id=
+checkout_confirmed.php?order_id=
+checkout_confirmed.php?order_id=
+clanek.php4?id=
+clanek.php4?id=
+clanek.php4?id= intext:"Password"
+clubpage.php?id=
+clubpage.php?id=
+collectionitem.php?id=
+collectionitem.php?id=
+com_extended_registration
+communique_detail.php?id=
+communique_detail.php?id=
+communique_detail.php?id= intext:"Password"
+components/com_extended_registration/registration_detailed.inc.php?mosConfig_absolute_path=
+components/com_extended_registration/registration_detailed.inc.php?mosConfig_absolute_path= com_extended_registration
+components/com_forum/download.php?phpbb_root_path= "com_forum"
+components/com_performs/performs.php?mosConfig_absolute_path= "com_performs"
+components/com_performs/performs.php?mosConfig_absolute_path= com_performs
+components/com_phpshop/toolbar.phpshop.html.php?mosConfig_absolute_path=
+components/com_phpshop/toolbar.phpshop.html.php?mosConfig_absolute_path= "com_phpshop"
+components/com_rsgery/rsgery.html.php?mosConfig_absolute_path= com_rsgery
+components/com_simpleboard/image_upload.php?sbp= com_simpleboard"
+contacts.php?cal_dir=
+contacts.php?cal_dir=
+contacts.php?cal_dir=
+content.php?page= "content.php?page=*.php"
+convert-date.php?cal_dir=
+convert-date.php?cal_dir=
+convert-date.php?cal_dir=
+coppercop/theme.php?THEME_DIR=
+csv_db/csv_db.cgi?fil e=file.extention
+curriculum.php?id=
+curriculum.php?id=
+curriculum.php?id= intext:"Username"
+cyberfolio/portfolio/msg/view.php?av= cyberfolio
+db/CART/product_details.asp?product_id=
+db/CART/product_details.asp?product_id=
+db/CART/product_details.php?product_id=
+db/CART/product_details.php?product_id=
+declaration_more.php?decl_id=
+declaration_more.php?decl_id= intext:"Credit Card"
+default.php?base_dir=
+default.php?basepath=
+default.php?cont=
+default.php?destino=
+default.php?eval=
+default.php?id=
+default.php?inc=
+default.php?incl=
+default.php?ir=
+default.php?itemnav=
+default.php?ki=
+default.php?left=
+default.php?loader=
+default.php?menue=
+default.php?mid=
+default.php?mod=
+default.php?nivel=
+default.php?oldal=
+default.php?option=
+default.php?p=
+default.php?page=
+default.php?page=
+default.php?page= "/default.php?page=*.php"
+default.php?pageweb=
+default.php?param=
+default.php?play=
+default.php?pre=
+default.php?ref=
+default.php?secao=
+default.php?secc=
+default.php?seite=
+default.php?showpage=
+default.php?str=
+default.php?strona=
+default.php?t=
+default.php?tipo=
+default.php?x=
+default/theme.php?THEME_DIR=
+deportes.cgi?a=latest&t=
+detail.php?ID=
+detail.php?ID=
+detail.php?ID= intext:"Username"
+displayCategory.php?basepath=
+dotproject/modules/files/index_table.php?root_dir=
+dotproject/modules/files/index_table.php?root_dir=
+dotproject/modules/projects/addedit.php?root_dir=
+dotproject/modules/projects/view.php?root_dir=
+dotproject/modules/projects/vw_files.php?root_dir=
+dotproject/modules/tasks/addedit.php?root_dir=
+dotproject/modules/tasks/viewgantt.php?root_dir=
+dotproject/modules/tasks/viewgantt.php?root_dir=
+down*.php?action=
+down*.php?addr=
+down*.php?channel=
+down*.php?choix=
+down*.php?corpo=
+down*.php?home=
+down*.php?in=
+down*.php?include=
+down*.php?nivel=
+down*.php?oldal=
+down*.php?open=
+down*.php?pag=
+down*.php?pageweb=
+down*.php?param=
+down*.php?path=
+down*.php?pg=
+down*.php?phpbb_root_path=
+down*.php?pollname=
+down*.php?pr=
+down*.php?pre=
+down*.php?r=
+down*.php?read=
+down*.php?second=
+down*.php?showpage=
+down*.php?subject=
+down*.php?texto=
+down*.php?url=
+down*.php?v=
+down*.php?where=
+down*.php?z=
+download.php?id=
+download.php?id=
+downloads_info.php?id=
+downloads_info.php?id=
+e107/e107_handlers/secure_img_render.php?p=
+e107/e107_handlers/secure_img_render.php?p=
+editor.php?root=
+emsgb/easymsgb.pl?print=
+enc/content.php?Home_Path= "doodle cart"
+enc/content.php?Home_Path= "doodle"
+enc/content.php?Home_Path= "powered by doodle cart"
+enc/content.php?Home_Path= doodle
+enc/content.php?Home_Path= doodle cart
+enc/content.php?Home_Path= powered by doodle cart
+encapscms_PATH/core/core.php?root= encapscms_PATH
+encore/forumcgi/display.cgi?preftemp=temp&page=anonymous&file=
+encore/forumcgi/display.cgi?preftemp=temp&page=anonymous&file=
+enter.php?a=
+enter.php?chapter=
+enter.php?content=
+enter.php?e=
+enter.php?ev=
+enter.php?goto=
+enter.php?id=
+enter.php?include=
+enter.php?index=
+enter.php?link=
+enter.php?mid=
+enter.php?middle=
+enter.php?mod=
+enter.php?open=
+enter.php?page=
+enter.php?panel=
+enter.php?pg=
+enter.php?phpbb_root_path=
+enter.php?play=
+enter.php?pname=
+enter.php?pr=
+enter.php?pref=
+enter.php?r=
+enter.php?s=
+enter.php?second=
+enter.php?sivu=
+enter.php?start=
+enter.php?thispage=
+enter.php?viewpage=
+enter.php?w=
+eshop.php?id=
+eshop.php?id=
+estore/products.php?cat=
+estore/products.php?cat=
+event.php?id=
+event.php?id=
+events.cgi?a=155&t=
+events.cgi?t=
+exibir.php?abre=
+exibir.php?get=
+exibir.php?lang=
+exibir.php?p=
+exibir.php?page=
+expanded.php?conf=
+faq2.php?id=
+faq2.php?id=
+fellows.php?id=
+fellows.php?id=
+fiche_spectacle.php?id=
+fiche_spectacle.php?id=
+file.php?basepath=
+file.php?body=
+file.php?channel=
+file.php?choix=
+file.php?cont=
+file.php?inc=
+file.php?ir=
+file.php?left=
+file.php?middle=
+file.php?modo=
+file.php?n=
+file.php?nivel=
+file.php?numero=
+file.php?param=
+file.php?pg=
+file.php?pollname=
+file.php?qry=
+file.php?seccion=
+file.php?sp=
+file.php?type=
+fileseek.cgi?head=&foot=
+forum_bds.php?num=
+forum_bds.php?num=
+galeri_info.php?l=
+galeri_info.php?l=
+galeri_info.php?l= intext:"Username"
+game.php?id=
+game.php?id=
+games.php?id=
+games.php?id= intext:"Password"
+garden_equipment/Fruit-Cage/product.asp?pr=
+garden_equipment/Fruit-Cage/product.asp?pr=
+garden_equipment/Fruit-Cage/product.php?pr=
+garden_equipment/Fruit-Cage/product.php?pr=
+garden_equipment/pest-weed-control/product.asp?pr=
+garden_equipment/pest-weed-control/product.asp?pr=
+garden_equipment/pest-weed-control/product.php?pr=
+garden_equipment/pest-weed-control/product.php?pr=
+general.php?abre=
+general.php?adresa=
+general.php?b=
+general.php?base_dir=
+general.php?channel=
+general.php?chapter=
+general.php?cmd=
+general.php?content=
+general.php?goto=
+general.php?header=
+general.php?inc=
+general.php?include=
+general.php?link=
+general.php?menue=
+general.php?mid=
+general.php?middle=
+general.php?modo=
+general.php?module=
+general.php?my=
+general.php?nivel=
+general.php?opcion=
+general.php?p=
+general.php?pageweb=
+general.php?pollname=
+general.php?pre=
+general.php?qry=
+general.php?ref=
+general.php?rub=
+general.php?second=
+general.php?seite=
+general.php?strona=
+general.php?texto=
+general.php?type=
+general.php?var=
+general.php?xlink=
+gery.php?*[*]*=
+gery.php?abre=
+gery.php?cont=
+gery.php?disp=
+gery.php?get=
+gery.php?go=
+gery.php?id=
+gery.php?id=
+gery.php?id= intext:"Email+Password"
+gery.php?index=
+gery.php?itemnav=
+gery.php?ki=
+gery.php?mid=
+gery.php?module=
+gery.php?name=
+gery.php?pag=
+gery.php?page=
+gery.php?pageweb=
+gery.php?panel=
+gery.php?param=
+gery.php?pg=
+gery.php?phpbb_root_path=
+gery.php?pollname=
+gery.php?pre=
+gery.php?qry=
+gery.php?secao=
+gery.php?seccion=
+gery.php?showpage=
+gery.php?sp=
+gery.php?thispage=
+gery.php?to=
+gery.php?var=
+gery.php?viewpage=
+gery.php?where=
+gery.php?y=
+gery/init.php?HTTP_POST_VARS=
+gery/init.php?HTTP_POST_VARS=
+getbook.asp?bookid=
+getbook.asp?bookid=
+getbook.cfm?bookid=
+getbook.cfm?bookid=
+getbook.php?bookid=
+getbook.php?bookid=
+giftDetail.asp?id=
+giftDetail.asp?id=
+giftDetail.cfm?id=
+giftDetail.cfm?id=
+giftDetail.php?id=
+giftDetail.php?id=
+giftshop/product.php?proid=
+giftshop/product.php?proid=
+global/product/product.asp?gubun=
+global/product/product.asp?gubun=
+global/product/product.php?gubun=
+global/product/product.php?gubun=
+goods_detail.asp?data=
+goods_detail.asp?data=
+goods_detail.php?data=
+goods_detail.php?data=
+goods_detail.php?goodsIdx=
+goods_detail.php?goodsIdx=
+grademade/index.php?page=
+head.php?*[*]*=
+head.php?abre=
+head.php?base_dir=
+head.php?c=
+head.php?choix=
+head.php?cmd=
+head.php?corpo=
+head.php?d=
+head.php?dir=
+head.php?ev=
+head.php?filepath=
+head.php?g=
+head.php?inc=
+head.php?include=
+head.php?index=
+head.php?ir=
+head.php?ki=
+head.php?left=
+head.php?loader=
+head.php?loc=
+head.php?middle=
+head.php?mod=
+head.php?module=
+head.php?numero=
+head.php?oldal=
+head.php?opcion=
+head.php?pname=
+head.php?sivu=
+head.php?where=
+head.php?y=
+header.php?systempath=
+historialeer.php?num=
+historialeer.php?num=
+historialeer.php?num= intext:"Credit Card"
+historialeer.php?num= intext:"Username"
+home.php?a=
+home.php?action=
+home.php?body=
+home.php?category=
+home.php?content=
+home.php?doshow=
+home.php?e=
+home.php?ev=
+home.php?h=
+home.php?include=
+home.php?k=
+home.php?loader=
+home.php?loc=
+home.php?pa=
+home.php?pag= "/home.php?pag=*.php"
+home.php?page=
+home.php?pageweb=
+home.php?path=
+home.php?pre=
+home.php?read=
+home.php?recipe=
+home.php?redirect=
+home.php?sec=
+home.php?secao=
+home.php?seite=
+home.php?sp=
+home.php?str=
+home.php?w=
+home.php?where=
+home.php?z=
+hosting_info.php?id=
+hosting_info.php?id=
+hosting_info.php?id= intext:"Email+Password"
+html/affich.php?base=
+humor.php?id=
+humor.php?id=
+humor.php?id= intext:"Password"
+i-m/i-m.cgi?p=
+ideabox/include.php?gorumDir=
+ideabox/include.php?gorumDir=
+impex/ImpExData.php?systempath= "vbulletin"
+impex/ImpExData.php?systempath= intext:powered by vbulletin
+impex/ImpExData.php?systempath= powered by vbulletin
+impex/ImpExData.php?systempath= vbulletin
+inc/cmses/aedatingCMS.php?dir[inc]= "flashchat"
+inc/functions.inc.php?config[ppa_root_path]= "Index - Albums" index.php
+inc/session.php?sessionerror=0&lang= inc
+inc/step_one_tables.php?server_inc=
+inc/step_one_tables.php?server_inc=
+include.php?*[*]*=
+include.php?adresa=
+include.php?basepath=
+include.php?chapter=
+include.php?cmd=
+include.php?cont=
+include.php?corpo=
+include.php?dir=
+include.php?go=
+include.php?goFile=
+include.php?gorumDir=
+include.php?goto=
+include.php?include=
+include.php?index=
+include.php?left=
+include.php?middlePart=
+include.php?my=
+include.php?numero=
+include.php?oldal=
+include.php?path=
+include.php?play=
+include.php?redirect=
+include.php?sec=
+include.php?u=
+include.php?url=
+include.php?w=
+include/editfunc.inc.php?NWCONF_SYSTEM[server_path]= intitle:Newswriter
+include/editfunc.inc.php?NWCONF_SYSTEM[server_path]= site:.gr
+include/new-visitor.inc.php?lvc_include_dir=
+include/write.php?dir=
+includes/header.php?systempath=
+includes/header.php?systempath=
+index.php?=
+index.php?=
+index.php?RP_PATH= reviewpost
+index.php?a=
+index.php?acao=
+index.php?action=
+index.php?action=
+index.php?action=
+index.php?arq=
+index.php?b=
+index.php?body= "index.php?body="
+index.php?body= index.php?body=
+index.php?c=
+index.php?c=
+index.php?cal=
+index.php?cat=
+index.php?cat=
+index.php?cmd=
+index.php?configFile=
+index.php?configFile=
+index.php?configFile=
+index.php?cont=
+index.php?cont=
+index.php?content=
+index.php?d=
+index.php?directfile=
+index.php?disp=
+index.php?do=
+index.php?do=
+index.php?e=
+index.php?ev=
+index.php?f=
+index.php?funcion=
+index.php?function=custom&custom= custom
+index.php?g=
+index.php?go1= "index.php?go1="
+index.php?go1= index.php?go1=
+index.php?go=
+index.php?go= "index.php?go="
+index.php?go= index.php?go=
+index.php?gorumdir=
+index.php?goto=
+index.php?h=
+index.php?hl=
+index.php?i=
+index.php?id=
+index.php?id= intext:"Credit Card"
+index.php?inc=
+index.php?include=
+index.php?include=
+index.php?include=
+index.php?ir=
+index.php?j=
+index.php?j=
+index.php?k=
+index.php?l=
+index.php?link=
+index.php?ll=
+index.php?lng=../../include/main.inc&G_PATH=
+index.php?lnk=
+index.php?load=
+index.php?loc=
+index.php?loc=
+index.php?lv1=
+index.php?m=
+index.php?meio.php=
+index.php?meio.php=
+index.php?meio=
+index.php?menu=deti&page= index.php?menu=deti&page"
+index.php?middle=
+index.php?n=
+index.php?o=
+index.php?oldal=
+index.php?op=
+index.php?open=
+index.php?open=
+index.php?open=
+index.php?option=
+index.php?p=
+index.php?p=
+index.php?p=
+index.php?p= "/index.php?p=*.php"
+index.php?pag=
+index.php?pag= "/index.php?pag=*.php"
+index.php?page=
+index.php?page=
+index.php?page=
+index.php?page= "/index.php?page=*.php"
+index.php?pagename= phpquiz
+index.php?pageurl=
+index.php?pageurl= "index.php?pageurl="
+index.php?pageurl= "index.php?pageurl=*.php
+index.php?pageurl= "index.php?pageurl=*.php"
+index.php?pageurl= index.php?pageurl=*.php
+index.php?pagina1= "index.php?pagina1="
+index.php?pagina1= index.php?pagina1=
+index.php?pagina=
+index.php?pagina=
+index.php?pagina= "index.php?pagina="
+index.php?pagina= "index.php?pagina=*.php"
+index.php?path=
+index.php?path=
+index.php?pg=
+index.php?pg=
+index.php?pg_ID=
+index.php?play=
+index.php?plugin=
+index.php?pname=
+index.php?pollname=
+index.php?pr=
+index.php?pre=
+index.php?pref=
+index.php?prefix=
+index.php?q=
+index.php?r=
+index.php?r=
+index.php?recipe=
+index.php?root_PATH=
+index.php?s=
+index.php?secao=
+index.php?seite=
+index.php?sekce=
+index.php?server=
+index.php?site1= "index.php?site1="
+index.php?site1= index.php?site1=
+index.php?site=
+index.php?site=
+index.php?site= "index.php?site="
+index.php?site= index.php?site=
+index.php?sivu=
+index.php?strona=
+index.php?sub2=
+index.php?sub=
+index.php?t=
+index.php?templateid=
+index.php?theme=
+index.php?tipo=
+index.php?to=
+index.php?type=
+index.php?u=
+index.php?v=
+index.php?var1= "index.php?var1="
+index.php?var1= index.php?var1=
+index.php?var2= index.php?var2=
+index.php?var=
+index.php?var= "index.php?var1="
+index.php?var= "index.php?var2="
+index.php?var= "index.php?var=*.php"
+index.php?var= index.php?va21=
+index.php?var= index.php?var1=
+index.php?var= index.php?var2=
+index.php?var= index.php?var=
+index.php?var= index.php?var=*.php
+index.php?ver=
+index.php?visualizar=
+index.php?visualizar=
+index.php?visualizar=
+index.php?vpagina=
+index.php?w=
+index.php?where=
+index.php?x=
+index.php?x=
+index.php?x=
+index.php?y=
+index.php?z=
+index1.php?*[*]*=
+index1.php?= "index1.php?="
+index1.php?= "index1.php?=*.php?
+index1.php?= index1.php?=
+index1.php?OpenPage=
+index1.php?abre=
+index1.php?b=
+index1.php?body=
+index1.php?chapter=
+index1.php?choix=
+index1.php?d=
+index1.php?dir=
+index1.php?get=
+index1.php?go=
+index1.php?goFile=
+index1.php?home=
+index1.php?l=
+index1.php?load=
+index1.php?loc=
+index1.php?modo=
+index1.php?my=
+index1.php?oldal=
+index1.php?pagina=
+index1.php?pg=
+index1.php?pollname=
+index1.php?pre=
+index1.php?qry=
+index1.php?recipe=
+index1.php?second=
+index1.php?showpage=
+index1.php?str=
+index1.php?subject=
+index1.php?texto=
+index1.php?tipo=
+index1.php?type=
+index2.php?= "index2.php?="
+index2.php?= "index2.php?=*.php?"
+index2.php?= index2.php?=
+index2.php?OpenPage=
+index2.php?a=
+index2.php?acao=
+index2.php?b=
+index2.php?basepath=
+index2.php?c=
+index2.php?cal=
+index2.php?channel=
+index2.php?chapter=
+index2.php?cmd=
+index2.php?cont=
+index2.php?content=
+index2.php?content=
+index2.php?d=
+index2.php?directfile=
+index2.php?doshow=
+index2.php?e=
+index2.php?f=
+index2.php?f=
+index2.php?filepath=
+index2.php?funcion=
+index2.php?g=
+index2.php?get=
+index2.php?gorumdir=
+index2.php?h=
+index2.php?home=
+index2.php?i=
+index2.php?in=
+index2.php?inc=
+index2.php?ir=
+index2.php?j=
+index2.php?k=
+index2.php?ki=
+index2.php?l=
+index2.php?lang=
+index2.php?language=
+index2.php?ll=
+index2.php?lnk=
+index2.php?load=
+index2.php?lv1=
+index2.php?m=
+index2.php?my=
+index2.php?n=
+index2.php?o=
+index2.php?option=
+index2.php?p=
+index2.php?pa=
+index2.php?pag=
+index2.php?pag= "/index2.php?pag=*.php"
+index2.php?param=
+index2.php?path= AKI
+index2.php?pg=
+index2.php?pref=
+index2.php?prefix=
+index2.php?q=
+index2.php?r=
+index2.php?recipe=
+index2.php?root_PATH=
+index2.php?rub=
+index2.php?s=
+index2.php?second=
+index2.php?section=
+index2.php?server=
+index2.php?sub2=
+index2.php?sub=
+index2.php?t=
+index2.php?theme=
+index2.php?to=
+index2.php?u=
+index2.php?v=
+index2.php?x=
+index2.php?x=
+index2.php?x=
+index2.php?y=
+index2.php?z=
+index2:php?aa=
+index3.php?abre=
+index3.php?adresa=
+index3.php?choix=
+index3.php?cmd=
+index3.php?disp=
+index3.php?go=
+index3.php?home=
+index3.php?index=
+index3.php?ir=
+index3.php?left=
+index3.php?link=
+index3.php?loader=
+index3.php?my=
+index3.php?nivel=
+index3.php?oldal=
+index3.php?open=
+index3.php?option=
+index3.php?p=
+index3.php?pageweb=
+index3.php?panel=
+index3.php?phpbb_root_path=
+index3.php?read=
+index3.php?redirect=
+index3.php?rub=
+index3.php?secao=
+index3.php?seccion=
+index3.php?second=
+index3.php?sekce=
+index3.php?showpage=
+index3.php?sp=
+index3.php?start=
+index3.php?tipo=
+index3.php?var=
+index3.php?x=
+index3.php?xlink=
+index3:php?aa=
+index5.php?body=
+index5.php?cat=
+index5.php?configFile=
+index5.php?cont=
+index5.php?content=
+index5.php?do=
+index5.php?inc=
+index5.php?include=
+index5.php?lang=
+index5.php?language=
+index5.php?lv1=
+index5.php?m=
+index5.php?main=
+index5.php?open=
+index5.php?p=
+index5.php?pag=
+index5.php?page=
+index5.php?pagina=
+index5.php?pg=
+index5.php?root=
+index5.php?site=
+index5.php?visualizar=
+index5.php?x=
+index_table.php?root_dir=
+indishell.in
+indishell.in
+indishell.in
+indishell.in
+info.php?*[*]*=
+info.php?base_dir=
+info.php?body=
+info.php?chapter=
+info.php?eval=
+info.php?filepath=
+info.php?go=
+info.php?incl=
+info.php?j=
+info.php?l=
+info.php?loader=
+info.php?middlePart=
+info.php?oldal=
+info.php?opcion=
+info.php?option=
+info.php?pagina=
+info.php?pref=
+info.php?r=
+info.php?read=
+info.php?seccion=
+info.php?start=
+info.php?strona=
+info.php?t=
+info.php?texto=
+info.php?url=
+info.php?z=
+init.inc.php?CPG_M_DIR=
+init.php?HTTP_POST_VARS=
+initdb.php?absolute_path=
+iniziativa.php?in=
+iniziativa.php?in=
+iniziativa.php?in= intext:"Email+Password"
+inst/index.php?lng=../../include/main.inc&G_PATH=
+inurl: prod_detail.php?id=
+inurl: prod_detail.php?id=
+inurl: prod_info.php?id=
+inurl: prod_info.php?id=
+inurl: product-item.php?id=
+inurl: product-item.php?id=
+inurl: product.php?id=
+inurl: product.php?id=
+inurl: product_ranges_view.php?id=
+inurl: product_ranges_view.php?id=
+inurl: productdetail.php?id=
+inurl: productdetail.php?id=
+inurl: productinfo.php?id=
+inurl: productinfo.php?id=
+inurl: produit.php?id=
+inurl: produit.php?id=
+inurl:Pageid=
+inurl:Productinfo.php?id=
+inurl:Productinfo.php?id= intext:"Password"
+inurl:aboutbook.php?id=
+inurl:aboutbook.php?id=
+inurl:aboutbook.php?id=
+inurl:aboutbook.php?id= intext:"Credit Card"
+inurl:aboutbook.php?id= intext:"Credit Card"
+inurl:aboutbook.php?id= intext:"Email+Password"
+inurl:ages.php?id=
+inurl:ages.php?id= intext:"Username"
+inurl:announce.php?id=
+inurl:announce.php?id=
+inurl:announce.php?id=
+inurl:announce.php?id= intext:"Credit Card"
+inurl:announce.php?id= intext:"Credit Card"
+inurl:announce.php?id= intext:"Email+Password"
+inurl:art.php?idm=
+inurl:art.php?idm= intext:"Username"
+inurl:article.php?ID=
+inurl:article.php?ID= intext:"Email+Password"
+inurl:article.php?id=
+inurl:article.php?id=
+inurl:article.php?id= intext:"Username"
+inurl:article.php?id= intext:"Username"
+inurl:artikelinfo.php?id=
+inurl:artikelinfo.php?id= intext:"Email+Password"
+inurl:avd_start.php?avd=
+inurl:avd_start.php?avd= intext:"Credit Card"
+inurl:band_info.php?id=
+inurl:band_info.php?id= intext:"Password"
+inurl:buy.php?category=
+inurl:buy.php?category= intext:"Email+Password"
+inurl:category.php?id=
+inurl:category.php?id= intext:"Username"
+inurl:channel_id=
+inurl:chappies.php?id=
+inurl:chappies.php?id=
+inurl:chappies.php?id= intext:"Password"
+inurl:chappies.php?id= intext:"Username"
+inurl:clanek.php4?id=
+inurl:clanek.php4?id=
+inurl:clanek.php4?id= intext:"Credit Card"
+inurl:clanek.php4?id= intext:"Password"
+inurl:clubpage.php?id=
+inurl:clubpage.php?id= intext:"Email+Password"
+inurl:collectionitem.php?id=
+inurl:collectionitem.php?id= intext:"Email+Password"
+inurl:communique_detail.php?id=
+inurl:communique_detail.php?id= intext:"Credit Card"
+inurl:curriculum.php?id=
+inurl:curriculum.php?id= intext:"Password"
+inurl:declaration_more.php?decl_id=
+inurl:declaration_more.php?decl_id= intext:"Password"
+inurl:detail.php?ID=
+inurl:detail.php?ID= intext:"Email+Password"
+inurl:download.php?id=
+inurl:download.php?id= intext:"Password"
+inurl:downloads_info.php?id=
+inurl:downloads_info.php?id= intext:"Username"
+inurl:event.php?id=
+inurl:event.php?id=
+inurl:event.php?id= intext:"Credit Card"
+inurl:event.php?id= intext:"Username"
+inurl:faq2.php?id=
+inurl:faq2.php?id= intext:"Password"
+inurl:fellows.php?id=
+inurl:fellows.php?id= intext:"Username"
+inurl:fiche_spectacle.php?id=
+inurl:fiche_spectacle.php?id= intext:"Username"
+inurl:forum_bds.php?num=
+inurl:forum_bds.php?num= intext:"Email+Password"
+inurl:galeri_info.php?l=
+inurl:galeri_info.php?l=
+inurl:galeri_info.php?l= intext:"Credit Card"
+inurl:galeri_info.php?l= intext:"Email+Password"
+inurl:gallery.php?id=
+inurl:gallery.php?id=
+inurl:gallery.php?id= intext:"Email+Password"
+inurl:gallery.php?id= intext:"Username"
+inurl:game.php?id=
+inurl:game.php?id= intext:"Username"
+inurl:games.php?id=
+inurl:games.php?id= intext:"Email+Password"
+inurl:historialeer.php?num=
+inurl:historialeer.php?num= intext:"Password"
+inurl:hosting_info.php?id=
+inurl:hosting_info.php?id= intext:"Credit Card"
+inurl:humor.php?id=
+inurl:humor.php?id= intext:"Credit Card"
+inurl:index.php?=
+inurl:index.php?= intext:"Password"
+inurl:index.php?id=
+inurl:index.php?id=
+inurl:index.php?id= intext:"Credit Card"
+inurl:index.php?id= intext:"Credit Card"
+inurl:index2.php?option=
+inurl:index2.php?option= intext:"Username"
+inurl:iniziativa.php?in=
+inurl:iniziativa.php?in= intext:"Email+Password"
+inurl:item_id=
+inurl:kategorie.php4?id=
+inurl:kategorie.php4?id= intext:"Password"
+inurl:labels.php?id=
+inurl:labels.php?id= intext:"Password"
+inurl:loadpsb.php?id=
+inurl:loadpsb.php?id=
+inurl:loadpsb.php?id= intext:"Password"
+inurl:loadpsb.php?id= intext:"Username"
+inurl:look.php?ID=
+inurl:look.php?ID= intext:"Password"
+inurl:main.php?id=
+inurl:main.php?id= intext:"Password"
+inurl:material.php?id=
+inurl:material.php?id=
+inurl:material.php?id= intext:"Email+Password"
+inurl:material.php?id= intext:"Password"
+inurl:memberInfo.php?id=
+inurl:memberInfo.php?id= intext:"Credit Card"
+inurl:news-full.php?id=
+inurl:news-full.php?id= intext:"Username"
+inurl:news.php?id=
+inurl:news.php?id=
+inurl:news.php?id= intext:"Email+Password"
+inurl:news.php?id= intext:"Password"
+inurl:newsDetail.php?id=
+inurl:newsDetail.php?id= intext:"Email+Password"
+inurl:news_display.php?getid=
+inurl:news_display.php?getid= intext:"Credit Card"
+inurl:news_view.php?id=
+inurl:news_view.php?id= intext:"Username"
+inurl:newscat.php?id=
+inurl:newscat.php?id= intext:"Username"
+inurl:newsid=
+inurl:newsitem.php?num=
+inurl:newsitem.php?num= intext:"Credit Card"
+inurl:newsone.php?id=
+inurl:newsone.php?id=
+inurl:newsone.php?id=
+inurl:newsone.php?id= intext:"Credit Card"
+inurl:newsone.php?id= intext:"Credit Card"
+inurl:newsone.php?id= intext:"Username"
+inurl:newsticker_info.php?idn=
+inurl:newsticker_info.php?idn= intext:"Email+Password"
+inurl:offer.php?idf=
+inurl:offer.php?idf= intext:"Password"
+inurl:opinions.php?id=
+inurl:opinions.php?id=
+inurl:opinions.php?id= intext:"Credit Card"
+inurl:opinions.php?id= intext:"Username"
+inurl:page.php?file=
+inurl:page.php?file= intext:"Password"
+inurl:page.php?id=
+inurl:page.php?id= intext:"Email+Password"
+inurl:pages.php?id=
+inurl:pages.php?id= intext:"Email+Password"
+inurl:participant.php?id=
+inurl:participant.php?id= intext:"Password"
+inurl:person.php?id=
+inurl:person.php?id= intext:"Username"
+inurl:play_old.php?id=
+inurl:play_old.php?id= intext:"Password"
+inurl:pop.php?id=
+inurl:pop.php?id= intext:"Email+Password"
+inurl:post.php?id=
+inurl:post.php?id= intext:"Email+Password"
+inurl:preview.php?id=
+inurl:preview.php?id= intext:"Credit Card"
+inurl:prod_detail.php?id=
+inurl:prod_detail.php?id= intext:"Password"
+inurl:prod_info.php?id=
+inurl:prod_info.php?id= intext:"Email+Password"
+inurl:product-item.php?id=
+inurl:product-item.php?id=
+inurl:product-item.php?id= intext:"Email+Password"
+inurl:product-item.php?id= intext:"Password"
+inurl:product.php?id=
+inurl:product.php?id= intext:"Email+Password"
+inurl:product_ranges_view.php?ID=
+inurl:product_ranges_view.php?ID= intext:"Credit Card"
+inurl:productdetail.php?id=
+inurl:productdetail.php?id= intext:"Credit Card"
+inurl:productinfo.php?id=
+inurl:productinfo.php?id= intext:"Email+Password"
+inurl:produit.php?id=
+inurl:produit.php?id= intext:"Email+Password"
+inurl:profile_view.php?id=
+inurl:profile_view.php?id= intext:"Username"
+inurl:publications.php?id=
+inurl:publications.php?id= intext:"Password"
+inurl:ray.php?id=
+inurl:ray.php?id= intext:"Email+Password"
+inurl:read.php?id=
+inurl:read.php?id=
+inurl:read.php?id= intext:"Credit Card"
+inurl:read.php?id= intext:"Password"
+inurl:readnews.php?id=
+inurl:readnews.php?id=
+inurl:readnews.php?id= intext:"Email+Password"
+inurl:readnews.php?id= intext:"Email+Password"
+inurl:reagir.php?num=
+inurl:reagir.php?num= intext:"Email+Password"
+inurl:releases.php?id=
+inurl:releases.php?id= intext:"Email+Password"
+inurl:review.php?id=
+inurl:review.php?id=
+inurl:review.php?id=
+inurl:review.php?id= intext:"Password"
+inurl:review.php?id= intext:"Password"
+inurl:review.php?id= intext:"Username"
+inurl:rub.php?idr=
+inurl:rub.php?idr=
+inurl:rub.php?idr=
+inurl:rub.php?idr= intext:"Email+Password"
+inurl:rub.php?idr= intext:"Password"
+inurl:rub.php?idr= intext:"Username"
+inurl:rubp.php?idr=
+inurl:rubp.php?idr= intext:"Password"
+inurl:rubrika.php?idr=
+inurl:rubrika.php?idr= intext:"Username"
+inurl:section.php?id=
+inurl:section.php?id= intext:"Password"
+inurl:select_biblio.php?id=
+inurl:select_biblio.php?id= intext:"Password"
+inurl:sem.php3?id=
+inurl:sem.php3?id= intext:"Email+Password"
+inurl:shop.php?do=part&id=
+inurl:shop.php?do=part&id=
+inurl:shop.php?do=part&id=
+inurl:shop.php?do=part&id= intext:"Credit Card"
+inurl:shop_category.php?id=
+inurl:shop_category.php?id=
+inurl:shop_category.php?id=
+inurl:shop_category.php?id= intext:"Credit Card"
+inurl:shopping.php?id=
+inurl:shopping.php?id=
+inurl:shopping.php?id=
+inurl:shopping.php?id= intext:"Password"
+inurl:show.php?id=
+inurl:show.php?id= intext:"Email+Password"
+inurl:show_an.php?id=
+inurl:show_an.php?id= intext:"Email+Password"
+inurl:showimg.php?id=
+inurl:showimg.php?id= intext:"Email+Password"
+inurl:shredder-categories.php?id=
+inurl:shredder-categories.php?id= intext:"Username"
+inurl:spr.php?id=
+inurl:spr.php?id= intext:"Credit Card"
+inurl:sql.php?id=
+inurl:sql.php?id=
+inurl:sql.php?id= intext:"Email+Password"
+inurl:sql.php?id= intext:"Password"
+inurl:staff_id=
+inurl:story.php?id=
+inurl:story.php?id= intext:"Credit Card"
+inurl:sw_comment.php?id=
+inurl:sw_comment.php?id= intext:"Email+Password"
+inurl:tekst.php?idt=
+inurl:tekst.php?idt= intext:"Password"
+inurl:theme.php?id=
+inurl:theme.php?id= intext:"Credit Card"
+inurl:title.php?id=
+inurl:title.php?id= intext:"Email+Password"
+inurl:top10.php?cat=
+inurl:top10.php?cat=
+inurl:top10.php?cat= intext:"Username"
+inurl:top10.php?cat= intext:"Username"
+inurl:tradeCategory.php?id=
+inurl:tradeCategory.php?id= intext:"Credit Card"
+inurl:trainers.php?id=
+inurl:trainers.php?id=
+inurl:trainers.php?id= intext:"Password"
+inurl:trainers.php?id= intext:"Username"
+inurl:transcript.php?id=
+inurl:transcript.php?id= intext:"Username"
+inurl:view.php?id=
+inurl:view.php?id= intext:"Username"
+inurl:view_faq.php?id=
+inurl:view_faq.php?id= intext:"Password"
+inurl:view_product.php?id=
+inurl:view_product.php?id=
+inurl:view_product.php?id=
+inurl:view_product.php?id= intext:"Username"
+inurl:viewapp.php?id=
+inurl:viewapp.php?id= intext:"Username"
+inurl:viewphoto.php?id=
+inurl:viewphoto.php?id=
+inurl:viewphoto.php?id= intext:"Email+Password"
+inurl:viewphoto.php?id= intext:"Email+Password"
+inurl:viewshowdetail.php?id=
+inurl:viewshowdetail.php?id= intext:"Username"
+inurl:website.php?id=
+inurl:website.php?id= intext:"Email+Password"
+irbeautina/product_detail.asp?product_id=
+irbeautina/product_detail.asp?product_id=
+irbeautina/product_detail.php?product_id=
+irbeautina/product_detail.php?product_id=
+item.asp?eid=
+item.asp?eid=
+item.asp?id=
+item.asp?id=
+item.asp?iid=
+item.asp?iid=
+item.asp?item_id=
+item.asp?item_id=
+item.asp?itemid=
+item.asp?itemid=
+item.asp?model=
+item.asp?model=
+item.asp?prodtype=
+item.asp?prodtype=
+item.asp?shopcd=
+item.asp?shopcd=
+item.asp?sub_id=
+item.asp?sub_id=
+item.cfm?eid=
+item.cfm?eid=
+item.cfm?item_id=
+item.cfm?item_id=
+item.cfm?itemid=
+item.cfm?itemid=
+item.cfm?model=
+item.cfm?model=
+item.cfm?prodtype=
+item.cfm?prodtype=
+item.cfm?shopcd=
+item.cfm?shopcd=
+item.php?SKU=
+item.php?SKU=
+item.php?cat=
+item.php?cat=
+item.php?code=
+item.php?code=
+item.php?eid=
+item.php?eid=
+item.php?id=
+item.php?id=
+item.php?iid=
+item.php?iid=
+item.php?item=
+item.php?item=
+item.php?item_id=
+item.php?item_id=
+item.php?itemid=
+item.php?itemid=
+item.php?model=
+item.php?model=
+item.php?prodtype=
+item.php?prodtype=
+item.php?shopcd=
+item.php?shopcd=
+item.php?sub_id=
+item.php?sub_id=
+item/detail.php?num=
+item/detail.php?num=
+item/wpa-storefront-the-ultimate-wpecommerce-theme/discussion/61891?page=
+item/wpa-storefront-the-ultimate-wpecommerce-theme/discussion/61891?page=
+itemDesc.asp?CartId=
+itemDesc.asp?CartId=
+itemDesc.cfm?CartId=
+itemDesc.cfm?CartId=
+itemDesc.php?CartId=
+itemDesc.php?CartId=
+itemDesc.php?CartId=
+item_book.asp?CAT=
+item_book.asp?CAT=
+item_book.php?CAT=
+item_book.php?CAT=
+item_details.asp?catid=
+item_details.asp?catid=
+item_details.cfm?catid=
+item_details.cfm?catid=
+item_details.php?catid=
+item_details.php?catid=
+item_id=
+item_id=
+item_id=
+item_id=
+item_list.asp?cat_id=
+item_list.asp?cat_id=
+item_list.asp?maingroup
+item_list.asp?maingroup
+item_list.cfm?maingroup
+item_list.cfm?maingroup
+item_list.php?cat_id=
+item_list.php?cat_id=
+item_list.php?maingroup
+item_list.php?maingroup
+item_list.php?maingroup=
+item_show.asp?code_no=
+item_show.asp?code_no=
+item_show.asp?id=
+item_show.asp?id=
+item_show.asp?lid=
+item_show.asp?lid=
+item_show.cfm?code_no=
+item_show.cfm?code_no=
+item_show.php?code_no=
+item_show.php?code_no=
+item_show.php?code_no=
+item_show.php?id=
+item_show.php?id=
+item_show.php?itemID=
+item_show.php?itemID=
+item_show.php?lid=
+item_show.php?lid=
+itemdetail.asp?item=
+itemdetail.asp?item=
+itemdetail.cfm?item=
+itemdetail.cfm?item=
+itemdetail.php?item=
+itemdetail.php?item=
+itemdetail.php?item=
+itemdetails.asp?catalogid=
+itemdetails.asp?catalogid=
+itemdetails.cfm?catalogid=
+itemdetails.cfm?catalogid=
+itemdetails.php?catalogid=
+itemdetails.php?catalogid=
+itemdetails.php?catalogid=
+itemlist.php?categoryID=
+itemlist.php?categoryID=
+jobs.cgi?a=9&t=
+kategorie.php4?id=
+kategorie.php4?id=
+kr/product/product.php?gubun=
+kr/product/product.php?gubun=
+kshop/home.php?cat=
+kshop/home.php?cat=
+kshop/product.asp?productid=
+kshop/product.asp?productid=
+kshop/product.php?productid=
+kshop/product.php?productid=
+labels.php?id=
+labels.php?id=
+labels.php?id= intext:"Password"
+latinbitz.cgi?t=
+layout.php?c=
+layout.php?category=
+layout.php?chapter=
+layout.php?choix=
+layout.php?cont=
+layout.php?disp=
+layout.php?goto=
+layout.php?incl=
+layout.php?menue=
+layout.php?opcion=
+layout.php?page=
+layout.php?pageweb=
+layout.php?path=
+layout.php?play=
+layout.php?secao=
+layout.php?strona=
+layout.php?url=
+layout.php?var=
+layout.php?xlink=
+lc.cgi?a=
+learnmore.php?cartID=
+lib.inc.php?pm_path=
+lib.php?root=
+library/editor/editor.php?root=
+library/editor/editor.php?root=
+library/lib.php?root=
+library/lib.php?root=
+links.php?catid=
+list.php?bookid=
+listcategoriesandproducts.php?idCategory=
+llindex.php?sub=
+loadpsb.php?id=
+loadpsb.php?id=
+look.php?ID=
+look.php?ID=
+look.php?ID= intext:"Password"
+m2f/m2f_phpbb204.php?m2f_root_path= /m2f_usercp.php?
+main.php?addr=
+main.php?basepath=
+main.php?category=
+main.php?chapter=
+main.php?dir=
+main.php?doshow=
+main.php?e=
+main.php?goto=
+main.php?h=
+main.php?id=
+main.php?id= "main.php?id=*.php"
+main.php?inc=
+main.php?ir=
+main.php?itemnav=
+main.php?j=
+main.php?load=
+main.php?name=
+main.php?oldal=
+main.php?opcion=
+main.php?page=
+main.php?page=
+main.php?page= "/main.php?page=*.php"
+main.php?param=
+main.php?path=
+main.php?pg=
+main.php?pname=
+main.php?pre=
+main.php?r=
+main.php?second=
+main.php?section=
+main.php?start=
+main.php?strona=
+main.php?tipo=
+main.php?type=
+main.php?url=
+main.php?v=
+main.php?where=
+main.php?x=
+main.php?x=
+main.php?x=
+mainfile.php?MAIN_PATH=
+mainfile.php?MAIN_PATH=
+mainfile.php?MAIN_PATH=
+material.php?id=
+mcf.php?content= "mcf.php"
+mcf.php?content= mcf.php
+mcf.php?content= mcf.php"
+media.cgi?a=11&t=
+memberInfo.php?id=
+memberInfo.php?id=
+mod*.php?action=
+mod*.php?b=
+mod*.php?channel=
+mod*.php?choix=
+mod*.php?cont=
+mod*.php?dir=
+mod*.php?index=
+mod*.php?ir=
+mod*.php?m=
+mod*.php?middle=
+mod*.php?module=
+mod*.php?numero=
+mod*.php?pageweb=
+mod*.php?path=
+mod*.php?pname=
+mod*.php?qry=
+mod*.php?recipe=
+mod*.php?start=
+mod*.php?thispage=
+mod*.php?v=
+mod.php?mod=
+mod_mainmenu.php?mosConfig_absolute_path=
+modline.php?id=
+module_db.php?pivot_path=
+module_db.php?pivot_path= module_db.php?pivot_path="
+modules.php?op=
+modules/4nAlbum/public/displayCategory.php?basepath=
+modules/4nAlbum/public/displayCategory.php?basepath=
+modules/My_eGery/public/displayCategory.php?basepath=
+modules/My_eGery/public/displayCategory.php?basepath=
+modules/agendax/addevent.inc.php?agendax_path=
+modules/agendax/addevent.inc.php?agendax_path=
+modules/coppermine/include/init.inc.php?CPG_M_DIR=
+modules/coppermine/include/init.inc.php?CPG_M_DIR=
+modules/coppermine/themes/default/theme.php?THEME_DIR=
+modules/coppermine/themes/default/theme.php?THEME_DIR=
+modules/mod_mainmenu.php?mosConfig_absolute_path=
+modules/tasks/viewgantt.php?root_dir=
+modules/xgery/upgrade_album.php?GERY_BASEDIR=
+modules/xgery/upgrade_album.php?GERY_BASEDIR=
+modules/xoopsgery/upgrade_album.php?GERY_BASEDIR=
+modules/xoopsgery/upgrade_album.php?GERY_BASEDIR=
+mwchat/libs/start_lobby.php?CONFIG[MWCHAT_Libs]=
+myPHPCalendar/admin.php?cal_dir=
+myPHPCalendar/admin.php?cal_dir=
+myaccount.php?catid=
+new-visitor.inc.php?lvc_include_dir=
+news-full.php?id=
+news-full.php?id=
+news.cgi?a=114&t=
+news.cgi?a=latest&t=
+news.cgi?t=
+news.php?CONFIG[script_path]=
+news.php?id=
+news.php?id=
+news.php?id=
+newsDetail.php?id=
+newsDetail.php?id= intext:"Password"
+news_display.php?getid=
+news_display.php?getid=
+news_display.php?getid= intext:"Password"
+news_view.php?id=
+news_view.php?id=
+news_view.php?id= intext:"Email+Password"
+newscat.php?id=
+newscat.php?id= intext:"Credit Card"
+newsdesk.cgi?a=latest&t=
+newsdesk.cgi?t=
+newsid=
+newsid=
+newsitem.php?num=
+newsitem.php?num=
+newsitem.php?num= intext:"Email+Password"
+newsone.php?id=
+newsone.php?id=
+newsticker_info.php?idn=
+newsticker_info.php?idn= intext:"Username"
+newsupdate.cgi?a=latest&t=
+nota.php?OpenPage=
+nota.php?b=
+nota.php?basepath=
+nota.php?channel=
+nota.php?chapter=
+nota.php?content=
+nota.php?corpo=
+nota.php?destino=
+nota.php?disp=
+nota.php?doshow=
+nota.php?eval=
+nota.php?get=
+nota.php?goFile=
+nota.php?h=
+nota.php?include=
+nota.php?ir=
+nota.php?ki=
+nota.php?lang=
+nota.php?m=
+nota.php?mod=
+nota.php?modo=
+nota.php?oldal=
+nota.php?opcion=
+nota.php?pag=
+nota.php?panel=
+nota.php?pg=
+nota.php?play=
+nota.php?pollname=
+nota.php?pr=
+nota.php?rub=
+nota.php?sec=
+nota.php?secc=
+nota.php?second=
+nota.php?sekce=
+nota.php?subject=
+nota.php?v=
+offer.php?idf=
+offer.php?idf= intext:"Password"
+ogl_inet.php?ogl_id=
+ogl_inet.php?ogl_id=
+opinions.php?id=
+opinions.php?id=
+opinions.php?id= intext:"Password"
+order-now.php?prodid=
+order-now.php?prodid=
+order.asp?BookID=
+order.asp?BookID=
+order.asp?id=
+order.asp?id=
+order.asp?item_ID=
+order.asp?item_ID=
+order.asp?lotid=
+order.asp?lotid=
+order.cfm?BookID=
+order.cfm?BookID=
+order.cfm?id=
+order.cfm?id=
+order.cfm?item_ID=
+order.cfm?item_ID=
+order.php?BookID=
+order.php?BookID=
+order.php?BookID=
+order.php?id=
+order.php?id=
+order.php?id=
+order.php?item_ID=
+order.php?item_ID=
+order.php?item_ID=
+order.php?l= order.php?l=
+order.php?l= order.php?l=
+order.php?lang= order.php?lang=
+order.php?lang= order.php?lang=
+order.php?list= order.php?list=
+order.php?list= order.php?list=
+order.php?ln= order.php?ln=
+order.php?ln= order.php?ln=
+order.php?p= order.php?p=
+order.php?p= order.php?p=
+order.php?pag= order.php?pag=
+order.php?pag= order.php?pag=
+order.php?page= order.php?page=
+order.php?page= order.php?page=
+order.php?pg= order.php?pg=
+order.php?pg= order.php?pg=
+order.php?wp= .php?wp=
+order.php?wp= .php?wp=
+order.php?wp= order.php?wp=
+order.php?wp= order.php?wp=
+order/cart/index.php?maincat_id=
+order/cart/index.php?maincat_id=
+padrao.php?*[*]*=
+padrao.php?addr=
+padrao.php?base_dir=
+padrao.php?basepath=
+padrao.php?corpo=
+padrao.php?d=
+padrao.php?destino=
+padrao.php?h=
+padrao.php?index=
+padrao.php?link=
+padrao.php?loc=
+padrao.php?mid=
+padrao.php?middle=
+padrao.php?n=
+padrao.php?name=
+padrao.php?nivel=
+padrao.php?page=
+padrao.php?path=
+padrao.php?pre=
+padrao.php?read=
+padrao.php?redirect=
+padrao.php?rub=
+padrao.php?seccion=
+padrao.php?str=
+padrao.php?subject=
+padrao.php?tipo=
+padrao.php?type=
+padrao.php?url=
+padrao.php?var=
+page.php?*[*]*=
+page.php?PartID=
+page.php?action=
+page.php?addr=
+page.php?base_dir=
+page.php?chapter=
+page.php?choix=
+page.php?cmd=
+page.php?e=
+page.php?ev=
+page.php?eval=
+page.php?file=
+page.php?g=
+page.php?id=
+page.php?id=
+page.php?id= intext:"Credit Card"
+page.php?inc=
+page.php?incl=
+page.php?ir=
+page.php?loader=
+page.php?mod=
+page.php?oldal=
+page.php?option=
+page.php?pa=
+page.php?panel=
+page.php?phpbb_root_path=
+page.php?pname=
+page.php?pref=
+page.php?q=
+page.php?qry=
+page.php?recipe=
+page.php?secao=
+page.php?section=
+page.php?sivu=
+page.php?strona=
+page.php?subject=
+page.php?tipo=
+page.php?url=
+page.php?where=
+pageid=
+pages.php?id=
+pages.php?id=
+pages.php?id= intext:"Username"
+pagina.php?basepath=
+pagina.php?category=
+pagina.php?channel=
+pagina.php?choix=
+pagina.php?dir=
+pagina.php?ev=
+pagina.php?goto=
+pagina.php?header=
+pagina.php?in=
+pagina.php?incl=
+pagina.php?left=
+pagina.php?my=
+pagina.php?nivel=
+pagina.php?numero=
+pagina.php?oldal=
+pagina.php?panel=
+pagina.php?pr=
+pagina.php?pre=
+pagina.php?read=
+pagina.php?recipe=
+pagina.php?ref=
+pagina.php?sec=
+pagina.php?section=
+pagina.php?sekce=
+pagina.php?start=
+pagina.php?str=
+pagina.php?thispage=
+pagina.php?tipo=
+pagina.php?u=
+pagina.php?v=
+pagina.php?z=
+participant.php?id=
+participant.php?id=
+path.php?*[*]*=
+path.php?body=
+path.php?category=
+path.php?channel=
+path.php?cmd=
+path.php?destino=
+path.php?ev=
+path.php?eval=
+path.php?ir=
+path.php?load=
+path.php?loader=
+path.php?mid=
+path.php?middle=
+path.php?my=
+path.php?nivel=
+path.php?numero=
+path.php?opcion=
+path.php?option=
+path.php?pageweb=
+path.php?play=
+path.php?pname=
+path.php?pre=
+path.php?pref=
+path.php?recipe=
+path.php?sivu=
+path.php?start=
+path.php?strona=
+path/index.php?function=custom&custom= path
+path_of_cpcommerce/_functions.php?prefix
+path_of_cpcommerce/_functions.php?prefix
+path_of_cpcommerce/_functions.php?prefix=
+path_of_cpcommerce/_functions.php?prefix=
+payment.php?CartID=
+pdetail.php?item_id=
+person.php?id=
+person.php?id=
+phpshop/index.php?base_dir=
+phpshop/index.php?base_dir=
+pipe.php?HCL_path=
+pivot/modules/module_db.php?pivot_path=
+pivot/modules/module_db.php?pivot_path=
+play_old.php?id=
+play_old.php?id=
+play_old.php?id= intext:"Password"
+play_old.php?id= intext:"Username"
+pm/lib.inc.php?pm_path=
+pm/lib.inc.php?pm_path=
+pop.php?id=
+pop.php?id=
+pop.php?id= intext:"Email+Password"
+post.php?id=
+post.php?id=
+post.php?id= intext:"Credit Card"
+powersearch.php?CartId=
+powerup.cgi?a=latest&t=
+press.php?*[*]*=
+press.php?OpenPage=
+press.php?addr=
+press.php?channel=
+press.php?destino=
+press.php?dir=
+press.php?ev=
+press.php?home=
+press.php?id=
+press.php?lang=
+press.php?link=
+press.php?loader=
+press.php?menu=
+press.php?mid=
+press.php?modo=
+press.php?my=
+press.php?nivel=
+press.php?panel=
+press.php?pname=
+press.php?pr=
+press.php?pref=
+press.php?seite=
+press.php?subject=
+press.php?type=
+preview.php?id=
+preview.php?id=
+price.php
+principal.php?addr=
+principal.php?b=
+principal.php?corpo=
+principal.php?eval=
+principal.php?f=
+principal.php?goto=
+principal.php?header=
+principal.php?home=
+principal.php?in=
+principal.php?inc=
+principal.php?index=
+principal.php?ir=
+principal.php?left=
+principal.php?loader=
+principal.php?loc=
+principal.php?menue=
+principal.php?middle=
+principal.php?middlePart=
+principal.php?oldal=
+principal.php?opcion=
+principal.php?pagina=
+principal.php?param=
+principal.php?phpbb_root_path=
+principal.php?pr=
+principal.php?q=
+principal.php?read=
+principal.php?rub=
+principal.php?s=
+principal.php?strona=
+principal.php?subject=
+principal.php?tipo=
+principal.php?to=
+principal.php?type=
+print.php?basepath=
+print.php?category=
+print.php?chapter=
+print.php?choix=
+print.php?cont=
+print.php?disp=
+print.php?g=
+print.php?goto=
+print.php?in=
+print.php?inc=
+print.php?itemnav=
+print.php?l=
+print.php?left=
+print.php?menu=
+print.php?middle=
+print.php?module=
+print.php?my=
+print.php?open=
+print.php?pag=
+print.php?path=
+print.php?pname=
+print.php?rub=
+print.php?sivu=
+print.php?sp=
+print.php?str=
+print.php?thispage=
+print.php?u=
+privacy.php?cartID=
+prod.asp?cat=
+prod.asp?cat=
+prod.php?cat=
+prod.php?cat=
+prod.php?prod= .php?prod="
+prod.php?prod= .php?prod="
+prodView.asp?idProduct=
+prodView.asp?idProduct=
+prodView.cfm?idProduct=
+prodView.cfm?idProduct=
+prodView.php?idProduct=
+prodView.php?idProduct=
+prodView.php?idProduct=
+prod_detail.php?id=
+prod_detail.php?id=
+prod_detail.php?id=
+prod_detail.php?id=
+prod_detail.php?id= intext:"Email+Password"
+prod_details.php?id=
+prod_details.php?id=
+prod_details.php?products_id=
+prod_details.php?products_id=
+prod_indiv.php?groupid=
+prod_indiv.php?groupid=
+prod_info.php?id=
+prod_info.php?id=
+prod_info.php?id=
+prod_info.php?id=
+prod_show.asp?id=
+prod_show.asp?id=
+prod_show.asp?prodid=
+prod_show.asp?prodid=
+prodbycat.asp?intCatalogID=
+prodbycat.asp?intCatalogID=
+prodbycat.cfm?intCatalogID=
+prodbycat.cfm?intCatalogID=
+prodbycat.php?intCatalogID=
+prodbycat.php?intCatalogID=
+prodbycat.php?intCatalogID=
+proddetail.php?prod=
+proddetail.php?prod=
+proddetail.php?prod= .php?prod="
+proddetail.php?prod= .php?prod="
+proddetails_print.php?prodid=
+proddetails_print.php?prodid=
+prodetails.asp?prodid=
+prodetails.asp?prodid=
+prodetails.cfm?prodid=
+prodetails.cfm?prodid=
+prodetails.php?prodid=
+prodetails.php?prodid=
+prodetails.php?prodid=
+prodlist.asp?catid=
+prodlist.asp?catid=
+prodlist.cfm?catid=
+prodlist.cfm?catid=
+prodlist.php?catid=
+prodlist.php?catid=
+prodlist.php?catid=
+prodotti.asp?id_cat=
+prodotti.asp?id_cat=
+prodotti.php?id_cat=
+prodotti.php?id_cat=
+prodrev.php?cat=
+prodrev.php?cat=
+product-detail.php?prodid=
+product-detail.php?prodid=
+product-details.php?prodID=
+product-details.php?prodID=
+product-info.php?cat=
+product-info.php?cat=
+product-item.php?id=
+product-item.php?id=
+product-item.php?id=
+product-item.php?id=
+product-item.php?id= intext:"Username"
+product-list.asp?category_id=
+product-list.asp?category_id=
+product-list.asp?cid=
+product-list.asp?cid=
+product-list.asp?id=
+product-list.asp?id=
+product-list.php?category_id=
+product-list.php?category_id=
+product-list.php?cid=
+product-list.php?cid=
+product-list.php?id=
+product-list.php?id=
+product-range.asp?rangeID=
+product-range.asp?rangeID=
+product-range.php?rangeID=
+product-range.php?rangeID=
+product.asp?****=
+product.asp?****=
+product.asp?ItemID=
+product.asp?ItemID=
+product.asp?bid=
+product.asp?bid=
+product.asp?bookID=
+product.asp?bookID=
+product.asp?cat=
+product.asp?cat=
+product.asp?id=
+product.asp?id=
+product.asp?id_h=
+product.asp?id_h=
+product.asp?intProdID=
+product.asp?intProdID=
+product.asp?intProductID=
+product.asp?intProductID=
+product.asp?pid=
+product.asp?pid=
+product.asp?prd=
+product.asp?prd=
+product.asp?prodid=
+product.asp?prodid=
+product.asp?product=
+product.asp?product=
+product.asp?product_id=
+product.asp?product_id=
+product.asp?productid=
+product.asp?productid=
+product.asp?shopprodid=
+product.asp?shopprodid=
+product.asp?sku=
+product.asp?sku=
+product.cfm?bookID=
+product.cfm?bookID=
+product.cfm?intProdID=
+product.cfm?intProdID=
+product.php?****=
+product.php?****=
+product.php?ItemId=
+product.php?ItemId=
+product.php?bid=
+product.php?bid=
+product.php?bookID=
+product.php?bookID=
+product.php?bookID=
+product.php?brand=
+product.php?brand=
+product.php?c=
+product.php?c=
+product.php?cat=
+product.php?cat=
+product.php?cat_id=
+product.php?cat_id=
+product.php?fdProductId=
+product.php?fdProductId=
+product.php?id=
+product.php?id=
+product.php?id=
+product.php?id=
+product.php?id_h=
+product.php?id_h=
+product.php?inid=
+product.php?inid=
+product.php?intProdID=
+product.php?intProdID=
+product.php?intProdID=
+product.php?intProductID=
+product.php?intProductID=
+product.php?lang=
+product.php?lang=
+product.php?par=
+product.php?par=
+product.php?pcid=
+product.php?pcid=
+product.php?pid=
+product.php?pid=
+product.php?pl=
+product.php?pl=
+product.php?prd=
+product.php?prd=
+product.php?prod_num=
+product.php?prod_num=
+product.php?prodid=
+product.php?prodid=
+product.php?product=
+product.php?product=
+product.php?product_id=
+product.php?product_id=
+product.php?product_no=
+product.php?product_no=
+product.php?productid=
+product.php?productid=
+product.php?products_id=
+product.php?products_id=
+product.php?proid=
+product.php?proid=
+product.php?rangeid=
+product.php?rangeid=
+product.php?shopprodid=
+product.php?shopprodid=
+product.php?sku=
+product.php?sku=
+product.search.php?proid=
+product.search.php?proid=
+product/detail.asp?id=
+product/detail.asp?id=
+product/detail.php?id=
+product/detail.php?id=
+product/list.asp?pid=
+product/list.asp?pid=
+product/list.php?pid=
+product/list.php?pid=
+product/product.asp?cate=
+product/product.asp?cate=
+product/product.asp?product_no=
+product/product.asp?product_no=
+product/product.php?cate=
+product/product.php?cate=
+product/product.php?product_no=
+product/product.php?product_no=
+product2.php?id=
+product2.php?id=
+product3.php?id=
+product3.php?id=
+productDetail.php?prodId=
+productDetail.php?prodId=
+productDetails.asp?idProduct=
+productDetails.asp?idProduct=
+productDetails.cfm?idProduct=
+productDetails.cfm?idProduct=
+productDetails.php?idProduct=
+productDetails.php?idProduct=
+productDetails.php?idProduct=
+productDisplay.asp
+productDisplay.asp
+productDisplay.cfm
+productDisplay.cfm
+productDisplay.php
+productDisplay.php
+productDisplay.php
+productList.asp?cat=
+productList.asp?cat=
+productList.php?cat=
+productList.php?cat=
+productList.php?id=
+productList.php?id=
+product_customed.php?pid=
+product_customed.php?pid=
+product_detail.asp?product_id=
+product_detail.asp?product_id=
+product_detail.cfm?id=
+product_detail.cfm?id=
+product_detail.php?id=
+product_detail.php?id=
+product_detail.php?prodid=
+product_detail.php?product_id=
+product_details.asp?id=
+product_details.asp?prodid=
+product_details.asp?product_id=
+product_details.php?id=
+product_details.php?prodID=
+product_details.php?product_id=
+product_guide/company_detail.php?id=
+product_info.asp?id=
+product_info.asp?item_id=
+product_info.asp?products_id=
+product_info.cfm?item_id=
+product_info.php?id=
+product_info.php?item_id=
+product_info.php?item_id=
+product_info.php?products_id=
+product_page.php?id=
+product_ranges_view.asp?ID=
+product_ranges_view.php?ID=
+product_ranges_view.php?ID=
+product_ranges_view.php?ID=
+product_ranges_view.php?ID= intext:"Email+Password"
+product_reviews.php?feature_id=
+productdetail.php?id=
+productdetail.php?id=
+productdetail.php?id=
+productdetail.php?id= intext:"Password"
+productdetails.php?prodId=
+productinfo.asp?item=
+productinfo.cfm?item=
+productinfo.php?id=
+productinfo.php?id=
+productinfo.php?id=
+productinfo.php?item=
+productinfo.php?item=
+productlist.asp?ViewType=Category&CategoryID=
+productlist.asp?fid=
+productlist.asp?grpid=
+productlist.asp?id=
+productlist.asp?tid=
+productlist.cfm?ViewType=Category&CategoryID=
+productlist.php?ViewType=Category&CategoryID=
+productlist.php?ViewType=Category&CategoryID=
+productlist.php?fid=
+productlist.php?grpid=
+productlist.php?tid=
+productpage.asp
+productpage.cfm
+productpage.php
+productpage.php
+productpage.php?ID=
+products-display-details.asp?prodid=
+products-display-details.php?prodid=
+products.asp?DepartmentID=
+products.asp?ID=
+products.asp?act=
+products.asp?cat=
+products.asp?cat_id=
+products.asp?categoryID=
+products.asp?catid=
+products.asp?groupid=
+products.asp?keyword=
+products.asp?openparent=
+products.asp?p=
+products.asp?rub=
+products.asp?type=
+products.cfm?ID=
+products.cfm?keyword=
+products.html?file=
+products.php?*******=
+products.php?DepartmentID=
+products.php?ID=
+products.php?act=
+products.php?area_id=
+products.php?cat=
+products.php?catId=
+products.php?cat_id=
+products.php?categoryID=
+products.php?cid=
+products.php?groupid=
+products.php?id=
+products.php?keyword=
+products.php?keyword=
+products.php?mainID=
+products.php?openparent=
+products.php?p=
+products.php?page=
+products.php?parent=
+products.php?prod= .php?prod="
+products.php?req=
+products.php?rub=
+products.php?sku=
+products.php?sub=
+products.php?subgroupid=
+products.php?type=
+products/?catID=
+products/Blitzball.htm?id=
+products/card.asp?prodID=
+products/card.php?prodID=
+products/category.php?id=
+products/display_product.php?product_id=
+products/index.asp?rangeid=
+products/index.php?cat=
+products/index.php?rangeid=
+products/item_show.php?itemId=
+products/model.php?id=
+products/parts/detail.asp?id=
+products/parts/detail.php?id=
+products/product-list.asp?id=
+products/product-list.php?id=
+products/product.asp?id=
+products/product.asp?pid=
+products/product.php?article=
+products/product.php?id=
+products/product.php?pid=
+products/productdetails.php?prodID=
+products/products.asp?p=
+products/products.php?cat=
+products/products.php?p=
+products/testimony.php?id=
+products/treedirectory.asp?id=
+productsByCategory.asp?intCatalogID=
+productsByCategory.cfm?intCatalogID=
+productsByCategory.php?intCatalogID=
+productsByCategory.php?intCatalogID=
+products_category.asp?CategoryID=
+products_category.cfm?CategoryID=
+products_category.php?CategoryID=
+products_category.php?CategoryID=
+products_connections_detail.php?cat_id=
+products_detail.asp?CategoryID=
+products_detail.cfm?CategoryID=
+products_detail.php?CategoryID=
+products_detail.php?CategoryID=
+products_detail.php?id=
+productsview.asp?proid=
+productsview.php?proid=
+productview.php?id=
+produit.php?id=
+produit.php?id=
+produit.php?id=
+produit.php?id= intext:"Username"
+produit.php?prod= .php?prod="
+produkt.php?prod= .php?prod="
+profile_view.php?id=
+profile_view.php?id=
+promo.php?id=
+promotion.php?catid=
+publications.php?id=
+publications.php?id=
+publications.php?id= intext:"Credit Card"
+pview.php?Item=
+ray.php?id=
+ray.php?id=
+ray.php?id= intext:"Username"
+read.php?id=
+read.php?id=
+readnews.php?id=
+readnews.php?id=
+reagir.php?num=
+reagir.php?num=
+reagir.php?num= intext:"Credit Card"
+releases.php?id=
+releases.php?id=
+releases.php?id= intext:"Password"
+reporter.cgi?t=
+resellers.php?idCategor
+review.php?id=
+review.php?id=
+review.php?id= intext:"Email+Password"
+rub.php?idr=
+rub.php?idr=
+rubp.php?idr=
+rubrika.php?idr=
+rubrika.php?idr= intext:"Password"
+section.php?id=
+section.php?id=
+section.php?id= intext:"Username"
+secure_img_render.php?p=
+select_biblio.php?id=
+select_biblio.php?id=
+sem.php3?id=
+sem.php3?id=
+sem.php3?id= intext:"Email+Password"
+send_reminders.php?includedir= "send_reminders.php?includedir="
+sendpage.php?page=
+shop.asp?a=
+shop.asp?action=
+shop.asp?bookid=
+shop.asp?cartID=
+shop.asp?id=
+shop.cfm?a=
+shop.cfm?action=
+shop.cfm?bookid=
+shop.cfm?cartID=
+shop.php?a=
+shop.php?action=
+shop.php?bookid=
+shop.php?cartID=
+shop.php?do=part&id=
+shop.php?do=part&id=
+shop.php?do=part&id=
+shop.php?id_cat=
+shop.php?prod= .php?prod="
+shop.pl/page=
+shop.pl/page=
+shop.pl/page= shop.pl/page=
+shop/books_detail.asp?bookID=
+shop/books_detail.php?bookID=
+shop/category.asp?cat_id=
+shop/category.php?cat_id=
+shop/eventshop/product_detail.asp?itemid=
+shop/eventshop/product_detail.php?itemid=
+shop/home.php?cat=
+shop/index.asp?cPath=
+shop/index.php?cPath=
+shop/index.php?cat_id=
+shop/pages.php?page=
+shop/product.php?id=
+shop/product_details.php?ProdID=
+shop/products.php?cat=
+shop/products.php?cat_id=
+shop/products.php?p=
+shop/shop.php?id=
+shop_category.php?id=
+shop_category.php?id=
+shop_category.php?id=
+shop_category.php?id= intext:"Password"
+shop_details.asp?prodid=
+shop_details.cfm?prodid=
+shop_details.php?prodid=
+shop_display_products.asp?cat_id=
+shop_display_products.php?cat_id=
+shopaddtocart.asp
+shopaddtocart.asp?catalogid=
+shopaddtocart.cfm
+shopaddtocart.cfm?catalogid=
+shopaddtocart.php
+shopaddtocart.php?catalogid=
+shopbasket.asp?bookid=
+shopbasket.cfm?bookid=
+shopbasket.php?bookid=
+shopbycategory.asp?catid=
+shopbycategory.cfm?catid=
+shopbycategory.php?catid=
+shopcafe-shop-product.asp?bookId=
+shopcafe-shop-product.php?bookId=
+shopcart.asp?title=
+shopcart.cfm?title=
+shopcart.php?title=
+shopcreatorder.asp
+shopcreatorder.cfm
+shopcreatorder.php
+shopcurrency.asp?cid=
+shopcurrency.cfm?cid=
+shopcurrency.php?cid=
+shopdc.asp?bookid=
+shopdc.cfm?bookid=
+shopdc.php?bookid=
+shopdisplaycategories.asp
+shopdisplaycategories.cfm
+shopdisplaycategories.php
+shopdisplayproduct.asp?catalogid=
+shopdisplayproduct.cfm?catalogid=
+shopdisplayproduct.php?catalogid=
+shopdisplayproducts.asp
+shopdisplayproducts.cfm
+shopdisplayproducts.php
+shopexd.asp
+shopexd.asp?catalogid=
+shopexd.cfm
+shopexd.cfm?catalogid=
+shopexd.php
+shopexd.php?catalogid=
+shopping.php?id=
+shopping.php?id=
+shopping.php?id=
+shopping.php?id= intext:"Password"
+shopping/index.php?id=
+shopping_article.php?id=
+shopping_basket.asp?cartID=
+shopping_basket.cfm?cartID=
+shopping_basket.php?cartID=
+shopprojectlogin.asp
+shopprojectlogin.cfm
+shopprojectlogin.php
+shopquery.asp?catalogid=
+shopquery.cfm?catalogid=
+shopquery.php?catalogid=
+shopremoveitem.asp?cartid=
+shopremoveitem.cfm?cartid=
+shopremoveitem.php?cartid=
+shopreviewadd.asp?id=
+shopreviewadd.cfm?id=
+shopreviewadd.php?id=
+shopreviewlist.asp?id=
+shopreviewlist.cfm?id=
+shopreviewlist.php?id=
+shoptellafriend.asp?id=
+shoptellafriend.cfm?id=
+shoptellafriend.php?id=
+shopthanks.asp
+shopthanks.cfm
+shopthanks.php
+shopwelcome.asp?title=
+shopwelcome.cfm?title=
+shopwelcome.php?title=
+shoutbox/expanded.php filetypep:hp
+shoutbox/expanded.php?conf=
+shoutbox/expanded.php?conf=
+shoutbox/expanded.php?conf=
+show-book.asp?id=
+show-book.php?id=
+show.asp?id=
+show.php?*root*=
+show.php?abre=
+show.php?abre=
+show.php?adresa=
+show.php?adresa=
+show.php?b=
+show.php?base_dir=
+show.php?channel=
+show.php?channel=
+show.php?chapter=
+show.php?chapter=
+show.php?cmd=
+show.php?corpo=
+show.php?corpo=
+show.php?d=
+show.php?disp=
+show.php?filepath=
+show.php?get=
+show.php?get=
+show.php?go=
+show.php?go=
+show.php?header=
+show.php?header=
+show.php?home=
+show.php?home=
+show.php?id=
+show.php?id=
+show.php?inc=
+show.php?incl=
+show.php?incl=
+show.php?include=
+show.php?include=
+show.php?index=
+show.php?index=
+show.php?ir=
+show.php?ir=
+show.php?item=
+show.php?j=
+show.php?ki=
+show.php?ki=
+show.php?l=
+show.php?l=
+show.php?left=
+show.php?loader=
+show.php?loader=
+show.php?m=
+show.php?mid=
+show.php?middlePart=
+show.php?modo=
+show.php?modo=
+show.php?module=
+show.php?my=
+show.php?my=
+show.php?n=
+show.php?nivel=
+show.php?nivel=
+show.php?oldal=
+show.php?oldal=
+show.php?page1= .php?page1="
+show.php?page=
+show.php?pageweb=
+show.php?pageweb=
+show.php?pagina=
+show.php?pagina=
+show.php?param=
+show.php?param=
+show.php?path=
+show.php?path=
+show.php?play=
+show.php?play=
+show.php?pname=
+show.php?pre=
+show.php?product= .php?product=
+show.php?product= show.php?product=
+show.php?qry=
+show.php?r=
+show.php?r=
+show.php?read=
+show.php?recipe=
+show.php?recipe=
+show.php?redirect=
+show.php?redirect=
+show.php?seccion=
+show.php?second=
+show.php?second=
+show.php?sp=
+show.php?thispage=
+show.php?thispage=
+show.php?to=
+show.php?type=
+show.php?type=
+show.php?x=
+show.php?x=
+show.php?xlink=
+show.php?xlink=
+show.php?z=
+show.php?z=
+showPage.php?type=
+showStore.asp?catID=
+showStore.cfm?catID=
+showStore.php?catID=
+show_an.php?id=
+show_an.php?id=
+show_an.php?id=
+show_bug.cgi?id=
+show_cv.php?id=
+show_item.asp?id=
+show_item.cfm?id=
+show_item.php?id=
+show_item_details.asp?item_id=
+show_item_details.cfm?item_id=
+show_item_details.php?item_id=
+show_news.php?cutepath=
+show_news.php?id=
+show_prod.php?p=
+show_upload.php?id=
+showbook.asp?bookid=
+showbook.cfm?bookid=
+showbook.php?bookid=
+showfeature.asp?id=
+showfeature.php?id=
+showimg.php?id=
+showimg.php?id=
+showimg.php?id=
+showmedia.php?id=
+showproduct.asp?cat=
+showproduct.asp?prodid=
+showproduct.asp?productId=
+showproduct.php?cat=
+showproduct.php?prodid=
+showproduct.php?productId=
+showproducts.php?cid=
+shredder-categories.php?id=
+shredder-categories.php?id=
+shredder-categories.php?id= intext:"Password"
+sitio.php?abre=
+sitio.php?chapter=
+sitio.php?get=
+sitio.php?go=
+sitio.php?goFile=
+sitio.php?incl=
+sitio.php?index=
+sitio.php?left=
+sitio.php?mid=
+sitio.php?name=
+sitio.php?oldal=
+sitio.php?opcion=
+sitio.php?pageweb=
+sitio.php?r=
+sitio.php?recipe=
+sitio.php?rub=
+sitio.php?secao=
+sitio.php?section=
+sitio.php?sivu=
+sitio.php?start=
+sitio.php?t=
+sitio.php?tipo=
+smarty_config.php?root_dir= "smarty"
+spr.php?id=
+spr.php?id=
+spr.php?id= intext:"Username"
+sql.php?id=
+sql.php?id=
+staff_id=
+standard.php?*[*]*=
+standard.php?action=
+standard.php?base_dir=
+standard.php?body=
+standard.php?channel=
+standard.php?cmd=
+standard.php?destino=
+standard.php?dir=
+standard.php?e=
+standard.php?ev=
+standard.php?goFile=
+standard.php?in=
+standard.php?j=
+standard.php?lang=
+standard.php?link=
+standard.php?middle=
+standard.php?name=
+standard.php?numero=
+standard.php?op=
+standard.php?pagina=
+standard.php?panel=
+standard.php?phpbb_root_path=
+standard.php?pr=
+standard.php?pre=
+standard.php?q=
+standard.php?ref=
+standard.php?s=
+standard.php?showpage=
+standard.php?sivu=
+standard.php?str=
+standard.php?subject=
+standard.php?viewpage=
+standard.php?w=
+start.php?*root*=
+start.php?addr=
+start.php?base_dir=
+start.php?basepath=
+start.php?chapter=
+start.php?cmd=
+start.php?destino=
+start.php?eval=
+start.php?header=
+start.php?in=
+start.php?index=
+start.php?mid=
+start.php?modo=
+start.php?module=
+start.php?o=
+start.php?op=
+start.php?pg=
+start.php?pollname=
+start.php?rub=
+start.php?secao=
+start.php?seite=
+start.php?sivu=
+start.php?str=
+start.php?strona=
+start.php?thispage=
+start.php?tipo=
+start.php?xlink=
+start_lobby.php?CONFIG[MWCHAT_Libs]=
+step_one.php?server_inc=
+step_one_tables.php?server_inc=
+stockists_list.asp?area_id=
+stockists_list.php?area_id=
+store-detail.php?ID=
+store-details.asp?id=
+store-details.cfm?id=
+store-details.php?id=
+store.asp?cat_id=
+store.asp?id=
+store.cfm?id=
+store.php?cat_id=
+store.php?id=
+store/customer/product.php?productid=
+store/default.asp?cPath=
+store/default.php?cPath=
+store/description.asp?iddesc=
+store/description.php?iddesc=
+store/detail.php?prodid=
+store/home.asp?cat=
+store/home.php?cat=
+store/index.asp?cat_id=
+store/index.php?cat_id=
+store/item.php?id=
+store/mcart.php?ID=
+store/news_story.php?id=
+store/product.asp?productid=
+store/product.php?productid=
+store/products.php?cat_id=
+store/showcat.php?cat_id=
+store/store.php?cat_id=
+store/store_detail.php?id=
+store/view_items.asp?id=
+store/view_items.php?id=
+store_bycat.asp?id=
+store_bycat.cfm?id=
+store_bycat.php?id=
+store_listing.asp?id=
+store_listing.cfm?id=
+store_listing.php?id=
+store_prod_details.php?ProdID=
+storefront.asp?id=
+storefront.cfm?id=
+storefront.php?id=
+storefronts.asp?title=
+storefronts.cfm?title=
+storefronts.php?title=
+storeitem.asp?item=
+storeitem.cfm?item=
+storeitem.php?item=
+storemanager/contents/item.asp?page_code=
+storemanager/contents/item.php?page_code=
+story.php?id=
+story.php?id=
+sub*.php?*[*]*=
+sub*.php?abre=
+sub*.php?action=
+sub*.php?b=
+sub*.php?base_dir=
+sub*.php?body=
+sub*.php?category=
+sub*.php?channel=
+sub*.php?chapter=
+sub*.php?cont=
+sub*.php?content=
+sub*.php?destino=
+sub*.php?include=
+sub*.php?ir=
+sub*.php?j=
+sub*.php?left=
+sub*.php?load=
+sub*.php?menue=
+sub*.php?mid=
+sub*.php?middle=
+sub*.php?mod=
+sub*.php?module=
+sub*.php?oldal=
+sub*.php?op=
+sub*.php?path=
+sub*.php?play=
+sub*.php?pname=
+sub*.php?pre=
+sub*.php?qry=
+sub*.php?recipe=
+sub*.php?sp=
+sub*.php?str=
+sub*.php?where=
+support/mailling/maillist/inc/initdb.php?absolute_path=
+support_page.cgi?file_name=
+sw_comment.php?id=
+sw_comment.php?id=
+tekst.php?idt=
+tekst.php?idt= intext:"Username"
+template.php?*[*]*=
+template.php?basepath=
+template.php?c=
+template.php?choix=
+template.php?cont=
+template.php?corpo=
+template.php?doshow=
+template.php?header=
+template.php?ir=
+template.php?k=
+template.php?lang=
+template.php?left=
+template.php?load=
+template.php?mod=
+template.php?nivel=
+template.php?pag=
+template.php?page= "/template.php?page=*.php"
+template.php?pagina
+template.php?pagina
+template.php?pagina=
+template.php?param=
+template.php?path=
+template.php?s=
+template.php?secao=
+template.php?section=
+template.php?seite=
+template.php?str=
+template.php?texto=
+template.php?viewpage=
+template.php?where=
+template.php?y=
+theme.php?THEME_DIR=
+theme.php?id=
+theme.php?id=
+theme.php?id= intext:"Email+Password"
+title.php?id=
+top10.php?cat=
+top10.php?cat=
+top10.php?cat= intext:"Password"
+tradeCategory.php?id=
+tradeCategory.php?id=
+trainers.php?id=
+trainers.php?id=
+trainers.php?id= intext:"Username"
+transcript.php?id=
+transcript.php?id=
+unknown.soldier
+upgrade_album.php?GERY_BASEDIR=
+view.php?*[*]*=
+view.php?b=
+view.php?channel=
+view.php?choix=
+view.php?cmd=
+view.php?get=
+view.php?go=
+view.php?header=
+view.php?id=
+view.php?id=
+view.php?id= intext:"Username"
+view.php?ir=
+view.php?load=
+view.php?mid=
+view.php?mod=
+view.php?page=
+view.php?panel=
+view.php?pg=
+view.php?pollname=
+view.php?pr=
+view.php?root_dir=
+view.php?secao=
+view.php?seite=
+view.php?showpage=
+view.php?sp=
+view.php?str=
+view.php?type=
+view.php?where=
+viewCart.asp?userID=
+viewCart.cfm?userID=
+viewCart.php?userID=
+view_faq.php?id=
+view_faq.php?id=
+view_product.php?id=
+view_product.php?id=
+viewapp.php?id=
+viewapp.php?id=
+viewcart.asp?CartId=
+viewcart.cfm?CartId=
+viewcart.php?CartId=
+viewgantt.php?root_dir=
+viewphoto.php?id=
+viewphoto.php?id=
+viewphoto.php?id= intext:"Credit Card"
+viewshowdetail.php?id=
+viewshowdetail.php?id=
+vote.pl?action=show&id=
+vw_files.php?root_dir=
+wamp_dir/setup/yesno.phtml?no_url= "setup"
+website.php?id=
+website.php?id=
+website.php?id= intext:"Email+Password"
+whereami.cgi?g=id
+word.php?id=
+write.php?dir=
+x/product.php?productid=
+xcart/home.php?cat=
+xcart/product.php?productid
+yabbse/Sources/Packages.php?sourcedir=
+yabbse/Sources/Packages.php?sourcedir=
+zboard/zboard.php
+zboard/zboard.php
+zentrack/index.php?configFile=
