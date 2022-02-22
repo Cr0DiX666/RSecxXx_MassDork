@@ -19,12 +19,19 @@ PyFiglet
 
 ## INSTALLER SIMPLE
 ```
-apt update && apt upgrade && apt install wget && wget https://raw.githubusercontent.com/RSecxXx/RSecxXx_MassDork/main/mass.py && chmod +x mass.py Dorks.txt && ./mass.py
+apt update && apt upgrade && apt install wget && apt install python2 && wget https://raw.githubusercontent.com/RSecxXx/RSecxXx_MassDork/main/mass.py && chmod +x mass.py Dorks.txt && ./mass.py
 ```
+
+## Tools USE
+
+```
+Python2 OR Python2.7
+``
 
 ## LICENSE TOOLS SOFTWARE 
 ```
 PRIV8 MASS DORK AUTO EXPLOID
+
                     LISENSI UMUM GNU
                        Versi 3, 29 Juni 2007
 
